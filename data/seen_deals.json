@@ -16801,5 +16801,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T13:22:12+00:00",
     "first_alerted_at": "2026-11-06T13:27:12.060463+00:00"
+  },
+  "adab37d15df3df0f": {
+    "title": "OpenClaw, Dots, Duet, Your Own Agent. Help Me Figure It out!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpkiz3/openclaw_dots_duet_your_own_agent_help_me_figure/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-06T18:38:55+00:00",
+    "first_alerted_at": "2026-11-06T20:01:09.189831+00:00"
+  },
+  "3d739bf55468159c": {
+    "title": "Show HN: Jev vs. OpenAI Decision vs. Small Financial World Models: FinBench [video]",
+    "url": "https://www.youtube.com/watch?v=UN1LIF01uHQ",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T16:54:21+00:00",
+    "first_alerted_at": "2026-11-06T20:01:10.249791+00:00"
+  },
+  "b954d44b367add05": {
+    "title": "Show HN: Botel – always reachable agents you pay for only while they're working",
+    "url": "https://botel.dev",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T15:46:21+00:00",
+    "first_alerted_at": "2026-11-06T20:01:11.311076+00:00"
+  },
+  "fc9b457a7719d51a": {
+    "title": "Show HN: Makoda: reuse your Codex or Claude subscriptions as API",
+    "url": "https://makoda.ai/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T19:08:44+00:00",
+    "first_alerted_at": "2026-11-06T20:01:12.364975+00:00"
+  },
+  "d4b4c7aad0c72b05": {
+    "title": "SmarterCompact: reducing cost and hallucination by trimming instead of summarizing compaction",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xplxhw/smartercompact_reducing_cost_and_hallucination_by/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T19:33:56+00:00",
+    "first_alerted_at": "2026-11-06T20:01:13.425775+00:00"
+  },
+  "ec4d322993457a43": {
+    "title": "I am a nook with Claude Code!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpm7as/i_am_a_nook_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T19:45:07+00:00",
+    "first_alerted_at": "2026-11-06T20:01:14.504893+00:00"
+  },
+  "47fdde7d2983a181": {
+    "title": "Tested CLAUDE.md, Graphify, and LLM wikis for Claude Code session memory. None quite worked, so I built an open hybrid alternative.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpjvax/tested_claudemd_graphify_and_llm_wikis_for_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T18:13:37+00:00",
+    "first_alerted_at": "2026-11-06T20:01:15.570363+00:00"
+  },
+  "69264868ef1f08ee": {
+    "title": "Generating social media content + automating",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpju5h/generating_social_media_content_automating/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T18:12:24+00:00",
+    "first_alerted_at": "2026-11-06T20:01:16.786631+00:00"
+  },
+  "9b2583409c21ec90": {
+    "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
+    "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T13:57:16+00:00",
+    "first_alerted_at": "2026-11-06T20:01:17.851119+00:00"
+  },
+  "ce90e6cf8419aef0": {
+    "title": "PSA: apparently they have a daily limit on how hard you can work on artifacts that live on claude.ai through Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpjiml/psa_apparently_they_have_a_daily_limit_on_how/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T18:00:11+00:00",
+    "first_alerted_at": "2026-11-06T20:01:18.912918+00:00"
   }
 }
