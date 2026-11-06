@@ -16693,5 +16693,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-05T22:03:44+00:00",
     "first_alerted_at": "2026-11-06T02:06:28.304344+00:00"
+  },
+  "d50f381e8dfd055d": {
+    "title": "Built with Claude Code: Still lets Claude Code drive browser tasks in background tabs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp3x04/built_with_claude_code_still_lets_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T04:36:31+00:00",
+    "first_alerted_at": "2026-11-06T05:51:38.090128+00:00"
+  },
+  "94df266156c7bf8e": {
+    "title": "Gave Claude Code the Chrome DevTools MCP and a broken page. It found both bugs without me opening DevTools once",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp2mdb/gave_claude_code_the_chrome_devtools_mcp_and_a/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T03:26:36+00:00",
+    "first_alerted_at": "2026-11-06T05:51:39.316448+00:00"
+  },
+  "bc85438530b29353": {
+    "title": "Personal Finance in Claude (beta, Nov 5): what Claude can actually see, what it can’t do, and who gets it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp28a6/personal_finance_in_claude_beta_nov_5_what_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T03:06:34+00:00",
+    "first_alerted_at": "2026-11-06T05:51:40.535962+00:00"
   }
 }
