@@ -11,6 +11,8 @@ build/
 
 # State & env files
 .env
+.venv/
+venv/
 data/seen_deals.json.tmp
 data/seen_deals.bak.json
 data/report.html

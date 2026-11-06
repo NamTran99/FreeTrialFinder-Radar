@@ -1,0 +1,110 @@
+{
+  "https://www.nodeseek.com/post-1035424-1": {
+    "title": "攻防中的红方一般都是用的什么模型？这么厉害，通过0day漏洞打进服务器中来，直接在数据库里边插入几条记录。赤裸裸的打脸啊，去年的攻防零丢分，今年有了AI直接负分。。",
+    "source": "NodeSeek",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.226251+00:00"
+  },
+  "https://github.com/japsnap/motionreels": {
+    "title": "japsnap/motionreels: A demo creator skill: give it a business's website and it makes a short, dynamic promo video from the site's o",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.227218+00:00"
+  },
+  "https://github.com/JUk1-GH/gpt-promo-scanner": {
+    "title": "JUk1-GH/gpt-promo-scanner: ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner —",
+    "source": "GitHub Repo (⭐946)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.227274+00:00"
+  },
+  "https://github.com/rockbenben/free-llm-intel": {
+    "title": "rockbenben/free-llm-intel: AI 厂商动态别挨家追：每天巡检 OpenAI、Claude、Gemini、DeepSeek、通义、Kimi 等的官方博客与更新页，生成可订阅的 RSS，英文原文逐段精译为中文，并附 70 家免费额度 / 限时活动总表（",
+    "source": "GitHub Repo (⭐54)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.227412+00:00"
+  },
+  "https://github.com/jiuyuan233/wool-gathering": {
+    "title": "jiuyuan233/wool-gathering: 🐑 全网 AI/游戏 免费福利活动自动收集 | 薅羊毛 | 代金券 | 免费额度 | Epic免费游戏 | Steam限免 | 华为云/阿里云/腾讯云/百度云/火山引擎/智谱/Kimi/DeepSeek | 大模型免费试",
+    "source": "GitHub Repo (⭐15)",
+    "score": 105,
+    "discovered_at": "2026-11-06T05:48:54.227674+00:00"
+  },
+  "https://github.com/liuda30201/AI-Coding": {
+    "title": "liuda30201/AI-Coding: AI 编程福利导航：汇总 Claude Code、Codex、Cursor 中转站与公益站，整理免费额度、注册福利、签到活动和评测记录，提供可视化看板与 Python 数据采集工具。",
+    "source": "GitHub Repo (⭐606)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.228140+00:00"
+  },
+  "https://github.com/silverbullet-liang/freeload": {
+    "title": "silverbullet-liang/freeload: 24 个能白嫖的服务 + 30 条 AI 指令 + 2 个技能包。服务亲手打，指令亲手写，打不通的直接删。",
+    "source": "GitHub Repo (⭐0)",
+    "score": 105,
+    "discovered_at": "2026-11-06T05:48:54.228237+00:00"
+  },
+  "https://github.com/dongjinkui72-create/jianzhi-xianling": {
+    "title": "dongjinkui72-create/jianzhi-xianling: 中转站上的中转站，让你高效配置自己的api，看到哪些中转站活着，签到额度。密钥本地保存，不怕泄露。保存中转站，一键签到。抓取官方免费额度，让你白嫖的一干二净。",
+    "source": "GitHub Repo (⭐0)",
+    "score": 105,
+    "discovered_at": "2026-11-06T05:48:54.228496+00:00"
+  },
+  "https://github.com/liumowan/Free-API": {
+    "title": "liumowan/Free-API: 免费 AI 大模型 API 中转站合集 · 注册送额度 · 每日签到续命 · Claude Code / Codex 白嫖指南",
+    "source": "GitHub Repo (⭐3)",
+    "score": 120,
+    "discovered_at": "2026-11-06T05:48:54.228642+00:00"
+  },
+  "https://github.com/tokenforfree/free-llm": {
+    "title": "tokenforfree/free-llm: ⚡ 2026 免费API / 免费Token / AI大模型公益站实测合集。精选 AgentRouter、AnyRouter、快跑 AI、CUN.AI、VSLLM 注册送额度与每日签到白嫖通道，原生兼容 Claude C",
+    "source": "GitHub Repo (⭐1)",
+    "score": 120,
+    "discovered_at": "2026-11-06T05:48:54.228691+00:00"
+  },
+  "https://github.com/lzt-maker/jvheapi_sign": {
+    "title": "lzt-maker/jvheapi_sign: 继续白嫖中转站api.zfb.la",
+    "source": "GitHub Repo (⭐0)",
+    "score": 105,
+    "discovered_at": "2026-11-06T05:48:54.228707+00:00"
+  },
+  "https://github.com/zyycn/codex-proxy-rs": {
+    "title": "zyycn/codex-proxy-rs: 基于 Rust 的低风控、高性能、自托管多账号透明代理网关",
+    "source": "GitHub Repo (⭐1138)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.228727+00:00"
+  },
+  "https://github.com/Wei-Shaw/sub2api": {
+    "title": "Wei-Shaw/sub2api: Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "source": "GitHub Repo (⭐45544)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.228758+00:00"
+  },
+  "https://github.com/zhangdailin/API-Console": {
+    "title": "zhangdailin/API-Console: A Go-based multi-channel proxy that exposes Claude Messages style and OpenAI-compatible APIs across four upstr",
+    "source": "GitHub Repo (⭐49)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.228828+00:00"
+  },
+  "https://github.com/theGoodB0rg/FreeTrialFinder": {
+    "title": "theGoodB0rg/FreeTrialFinder: Modular, test-driven, -cost monitor scanning for developer AI API credits, free trials & promo codes (Claude, ",
+    "source": "GitHub Repo (⭐4)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.228943+00:00"
+  },
+  "https://github.com/Cloud-Cad-Ai/solidworks-mcp": {
+    "title": "Cloud-Cad-Ai/solidworks-mcp: Local MCP server that lets Claude, Cursor and Codex build, inspect and automate parts in SolidWorks. Windows x",
+    "source": "GitHub Repo (⭐4)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.228983+00:00"
+  },
+  "https://github.com/juliameyer623758/cursor-pro-setup-guide": {
+    "title": "juliameyer623758/cursor-pro-setup-guide: Cursor Pro is a Windows subscription tier for higher AI limits and priority models in Cursor. A built-in free ",
+    "source": "GitHub Repo (⭐9)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.229021+00:00"
+  },
+  "https://github.com/hannahherrmann43493/cursor-pro-setup-guide": {
+    "title": "hannahherrmann43493/cursor-pro-setup-guide: Cursor Pro is a paid coding subscription that unlocks higher AI limits and Pro-only tools on Windows. A built-",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-06T05:48:54.229059+00:00"
+  }
+}

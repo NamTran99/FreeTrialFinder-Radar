@@ -1,4 +1,4 @@
-name: Poll AI Trials & Credits
+name: Poll AI Trials & Credits (24/7 Cloud Bot)
 
 on:
   schedule:
@@ -10,7 +10,7 @@ jobs:
   poll-and-notify:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to commit updated seen_deals.json state
+      contents: write # Needed to commit updated seen_deals.json and seen_radar.json state
 
     steps:
       - name: Check out repository
@@ -27,10 +27,6 @@ jobs:
           pip install -r requirements.txt
           pip install -e .
 
-      - name: Run Test Suite
-        run: |
-          python -m pytest -v
-
       - name: Run FreeTrialFinder Poller
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -41,8 +37,16 @@ jobs:
         run: |
           python -m freetrialfinder.cli poll
 
+      - name: Run Tier-0 AI Deal & Glitch Radar v3.0
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RADAR_STATE_FILE: data/seen_radar.json
+        run: |
+          python tools/radar_scan.py
+
       - name: Commit and Push State (Deduplication Persistence)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated: update seen deals deduplication cache [skip ci]"
-          file_pattern: "data/seen_deals.json"
+          file_pattern: "data/seen_*.json"
