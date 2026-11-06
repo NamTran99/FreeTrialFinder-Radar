@@ -16720,5 +16720,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T03:06:34+00:00",
     "first_alerted_at": "2026-11-06T05:51:40.535962+00:00"
+  },
+  "fc20c9a63b269b50": {
+    "title": "agent-desktop (Vercel Labs): computer use for Claude Code via the OS accessibility tree instead of screenshots",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp8xcp/agentdesktop_vercel_labs_computer_use_for_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T09:49:23+00:00",
+    "first_alerted_at": "2026-11-06T13:27:02.980477+00:00"
+  },
+  "ab131dcae80d2afb": {
+    "title": "I built CogniCore with Claude Code: free, open-source shared memory between Claude Code, Claude.ai and Codex",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp8o0c/i_built_cognicore_with_claude_code_free/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T09:32:02+00:00",
+    "first_alerted_at": "2026-11-06T13:27:04.115170+00:00"
+  },
+  "3e3de39c368f6999": {
+    "title": "I'm not an engineer. I built a reading tutor for my daughter with Claude Code, and Claude writes her new stories every week",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpa9v5/im_not_an_engineer_i_built_a_reading_tutor_for_my/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T11:13:46+00:00",
+    "first_alerted_at": "2026-11-06T13:27:05.249071+00:00"
+  },
+  "e4406f01521418f8": {
+    "title": "Anyone else think the IDE is dead?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp9qhf/anyone_else_think_the_ide_is_dead/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T10:40:24+00:00",
+    "first_alerted_at": "2026-11-06T13:27:06.348643+00:00"
+  },
+  "1c0dfe6c261aef2a": {
+    "title": "How to Get Free API Key from OpenRouter - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ubGlpTkFncmRCUUlGZ1l1R19BQmVyRjN1dWxETG0xUGhvZFAtQmpUU2dXVkFxNE5sZllULXFDdl9fUmpJYlBlNVJiakdWMnpPWFM2bGVFalR3eHh2?oc=5",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-13T07:00:00+00:00",
+    "first_alerted_at": "2026-11-06T13:27:07.503990+00:00"
+  },
+  "7fa268c17aedbac9": {
+    "title": "Hooking Claude up to your analytics? My dashboard rates one channel at 50% conversion, and that's 1 visitor. The 5 rules I give Claude before it reads my numbers, each from a real case on my own sites (copy-paste block)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpbnwu/hooking_claude_up_to_your_analytics_my_dashboard/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T12:32:39+00:00",
+    "first_alerted_at": "2026-11-06T13:27:08.626086+00:00"
+  },
+  "ee0eb926c7a75502": {
+    "title": "What I learned switching from vibes to running evals on an LLM feature: model swap +1%, system prompt fixes 38% → 80%",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp815k/what_i_learned_switching_from_vibes_to_running/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T08:49:59+00:00",
+    "first_alerted_at": "2026-11-06T13:27:09.738681+00:00"
+  },
+  "44b2022d304d39df": {
+    "title": "Ask HN: If you had unlimited Claude credits, what would you build and why?",
+    "url": "https://news.ycombinator.com/item?id=50389207",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T07:19:59+00:00",
+    "first_alerted_at": "2026-11-06T13:27:10.914777+00:00"
+  },
+  "6d4fc42876bc28c8": {
+    "title": "I didnt expect to use this much tokens 😭",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpcnv4/i_didnt_expect_to_use_this_much_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T13:22:12+00:00",
+    "first_alerted_at": "2026-11-06T13:27:12.060463+00:00"
   }
 }
