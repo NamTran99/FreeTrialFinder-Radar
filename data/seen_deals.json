@@ -16999,5 +16999,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T00:43:19+00:00",
     "first_alerted_at": "2026-11-07T06:19:09.413025+00:00"
+  },
+  "07b7747847ef4375": {
+    "title": "I built a free Claude skill for job hunting in Germany: finds jobs, tailors your CV and writes the cover letter (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq33ju/i_built_a_free_claude_skill_for_job_hunting_in/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T10:16:37+00:00",
+    "first_alerted_at": "2026-11-07T13:23:13.030394+00:00"
+  },
+  "7d59a4535868beb3": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/recursive-flint-v1.0/\" target=\"_blank\" rel=\"noopener\">Recursive: Flint free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/recursive-flint-v1.0/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T13:23:07.678343+00:00",
+    "first_alerted_at": "2026-11-07T13:23:14.094874+00:00"
+  },
+  "6b98652c48872da7": {
+    "title": "Android Remote Control MCP v1.13.0 is out: free end-to-end encrypted tunnel, no account needed",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq38jt/android_remote_control_mcp_v1130_is_out_free/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T10:25:42+00:00",
+    "first_alerted_at": "2026-11-07T13:23:15.124730+00:00"
+  },
+  "289d507f618481b9": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-5-flash-lite/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T13:23:07.676775+00:00",
+    "first_alerted_at": "2026-11-07T13:23:16.158985+00:00"
+  },
+  "183a8edea9626264": {
+    "title": "Claude me sorprende cada día",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq3s21/claude_me_sorprende_cada_día/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T11:01:11+00:00",
+    "first_alerted_at": "2026-11-07T13:23:17.191098+00:00"
+  },
+  "2fbd11ce4297bb64": {
+    "title": "How long do your Claude Code / Cursor sessions run, and does anything check security? (student research, 3 quick Qs)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq1qdb/how_long_do_your_claude_code_cursor_sessions_run/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T08:46:09+00:00",
+    "first_alerted_at": "2026-11-07T13:23:18.198969+00:00"
+  },
+  "37dd0ac18c27c8de": {
+    "title": "token usage graph",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq1fkb/token_usage_graph/",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T08:26:37+00:00",
+    "first_alerted_at": "2026-11-07T13:23:19.213529+00:00"
   }
 }
