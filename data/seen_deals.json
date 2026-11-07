@@ -17062,5 +17062,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T08:26:37+00:00",
     "first_alerted_at": "2026-11-07T13:23:19.213529+00:00"
+  },
+  "479f8b62e7a1d88f": {
+    "title": "Claude doesn't write our games' code. It writes a 451-token spec. What we learned building a prompt-to-game platform on the API",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq6kv3/claude_doesnt_write_our_games_code_it_writes_a/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-07T13:38:14+00:00",
+    "first_alerted_at": "2026-11-07T18:08:19.385576+00:00"
+  },
+  "334a9c263d58c38e": {
+    "title": "Sales and Project (job) tracker",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqacp8/sales_and_project_job_tracker/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T16:25:17+00:00",
+    "first_alerted_at": "2026-11-07T18:08:20.398493+00:00"
   }
 }
