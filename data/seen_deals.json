@@ -16891,5 +16891,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T18:00:11+00:00",
     "first_alerted_at": "2026-11-06T20:01:18.912918+00:00"
+  },
+  "b4a89747bab772cd": {
+    "title": "I built clibridge: use your Claude Code login in OpenAI/LangChain SDKs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xprwze/i_built_clibridge_use_your_claude_code_login_in/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T23:50:10+00:00",
+    "first_alerted_at": "2026-11-07T00:11:12.367617+00:00"
+  },
+  "c0e871fe2ee7cc30": {
+    "title": "I’m not a backend developer, so I used Claude Code to build one. It now looks after my real server",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpmnsd/im_not_a_backend_developer_so_i_used_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T20:03:32+00:00",
+    "first_alerted_at": "2026-11-07T00:11:13.450371+00:00"
+  },
+  "558ac14b478d2a33": {
+    "title": "I’m experimenting with Codex and Claude Code working on the same project. Here’s what I’m trying to solve.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpp347/im_experimenting_with_codex_and_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T21:44:07+00:00",
+    "first_alerted_at": "2026-11-07T00:11:14.726773+00:00"
+  },
+  "2bfbce802852cda3": {
+    "title": "Claude usage credits purchased after Dec 7 will expire 12 months after purchase",
+    "url": "https://news.ycombinator.com/item?id=50399909",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T23:27:15+00:00",
+    "first_alerted_at": "2026-11-07T00:11:15.804223+00:00"
+  },
+  "4a924b9d22bf0972": {
+    "title": "So not exactly a fan of the new \"no 5 hour\" window exactly for this reason",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xps2kv/so_not_exactly_a_fan_of_the_new_no_5_hour_window/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T23:57:49+00:00",
+    "first_alerted_at": "2026-11-07T00:11:16.871882+00:00"
   }
 }
