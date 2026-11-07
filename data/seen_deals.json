@@ -16936,5 +16936,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T23:57:49+00:00",
     "first_alerted_at": "2026-11-07T00:11:16.871882+00:00"
+  },
+  "c5c0836b593f93f5": {
+    "title": "Claude get smarter?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpz2sv/claude_get_smarter/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T06:00:55+00:00",
+    "first_alerted_at": "2026-11-07T06:19:02.723996+00:00"
+  },
+  "95e9de72c776e4f2": {
+    "title": "Claude Code built my open-source AI voice studio, then made its 7-minute trailer too",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpz4o7/claude_code_built_my_opensource_ai_voice_studio/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T06:03:51+00:00",
+    "first_alerted_at": "2026-11-07T06:19:03.828724+00:00"
+  },
+  "7edbfc9a542274f0": {
+    "title": "I built a tiny helper that lives in my MacBook notch, works along with Claude Code and jumps for joy when it's done",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxe0l/i_built_a_tiny_helper_that_lives_in_my_macbook/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T04:25:46+00:00",
+    "first_alerted_at": "2026-11-07T06:19:04.942783+00:00"
+  },
+  "4c7ce29800735a88": {
+    "title": "Best saas arhitecutre",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpwdng/best_saas_arhitecutre/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T03:31:02+00:00",
+    "first_alerted_at": "2026-11-07T06:19:06.060732+00:00"
+  },
+  "a03790f0650a02f1": {
+    "title": "Claude ai usage is INSANE! (See body post)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxlzr/claude_ai_usage_is_insane_see_body_post/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T04:37:59+00:00",
+    "first_alerted_at": "2026-11-07T06:19:07.197453+00:00"
+  },
+  "4085fbbf1f35fc49": {
+    "title": "Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T03:04:25+00:00",
+    "first_alerted_at": "2026-11-07T06:19:08.290034+00:00"
+  },
+  "c91cf605615eb372": {
+    "title": "I got an old HP touchscreen PC that was collecting dust. What would you turn it into?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpt1sb/i_got_an_old_hp_touchscreen_pc_that_was/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T00:43:19+00:00",
+    "first_alerted_at": "2026-11-07T06:19:09.413025+00:00"
   }
 }
