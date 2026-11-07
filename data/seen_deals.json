@@ -17080,5 +17080,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T16:25:17+00:00",
     "first_alerted_at": "2026-11-07T18:08:20.398493+00:00"
+  },
+  "df4b9eef3ddaf1d3": {
+    "title": "Claude Code's \"Don't ask again\" can save commands containing secrets — how are you handling this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqep49/claude_codes_dont_ask_again_can_save_commands/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T19:28:21+00:00",
+    "first_alerted_at": "2026-11-07T22:07:21.190078+00:00"
+  },
+  "104734509478a140": {
+    "title": "I built CodeChroma with Claude Code, from product design through implementation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqgwcg/i_built_codechroma_with_claude_code_from_product/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T21:04:39+00:00",
+    "first_alerted_at": "2026-11-07T22:07:22.243372+00:00"
+  },
+  "2950c143e79ef70b": {
+    "title": "Hit v232 on a solo pixel art game project built entirely in a single Claude chat. How do I migrate before context degradation hits me?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqeung/hit_v232_on_a_solo_pixel_art_game_project_built/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T19:34:57+00:00",
+    "first_alerted_at": "2026-11-07T22:07:23.292038+00:00"
+  },
+  "372046f5f078e50a": {
+    "title": "Claude me sorprende cada día",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqhu4v/claude_me_sorprende_cada_día/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T21:47:14+00:00",
+    "first_alerted_at": "2026-11-07T22:07:24.338326+00:00"
   }
 }
