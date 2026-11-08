@@ -17116,5 +17116,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T21:47:14+00:00",
     "first_alerted_at": "2026-11-07T22:07:24.338326+00:00"
+  },
+  "69a8443c880dc04e": {
+    "title": "I built a Mac app with Claude Code that coaches you to use Claude Code better",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqjb21/i_built_a_mac_app_with_claude_code_that_coaches/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T22:55:31+00:00",
+    "first_alerted_at": "2026-11-08T01:38:09.444049+00:00"
+  },
+  "a9b16eb98e0d8620": {
+    "title": "Using Claude to unify Global Legislation and Caselaw in Git",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqkygu/using_claude_to_unify_global_legislation_and/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T00:13:58+00:00",
+    "first_alerted_at": "2026-11-08T01:38:10.629485+00:00"
+  },
+  "8e060c0a7ce5074c": {
+    "title": "40k usd in claude code api",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqksx1/40k_usd_in_claude_code_api/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T00:06:16+00:00",
+    "first_alerted_at": "2026-11-08T01:38:11.810634+00:00"
   }
 }

@@ -172,5 +172,17 @@
     "source": "GitHub Repo (⭐89)",
     "score": 85,
     "discovered_at": "2026-11-07T18:08:22.436978+00:00"
+  },
+  "https://github.com/nv876620-design/gemini-web-2api": {
+    "title": "nv876620-design/gemini-web-2api: ",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-08T01:38:13.771978+00:00"
+  },
+  "https://github.com/ZYHUO/perchai-2api": {
+    "title": "ZYHUO/perchai-2api: OpenAI-compatible 2api proxy for Perch AI (perchai-cli) — reverse-engineered model-call gateway, zero runtime ",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-08T01:38:13.772067+00:00"
   }
 }
