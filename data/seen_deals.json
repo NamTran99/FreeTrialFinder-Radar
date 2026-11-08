@@ -17359,5 +17359,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T15:26:30.040031+00:00",
     "first_alerted_at": "2026-11-08T15:26:53.004748+00:00"
+  },
+  "2f5bbd8daec1bcf5": {
+    "title": "Show HN: Velork – Design and Code, Together",
+    "url": "https://velork.com",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T15:31:19+00:00",
+    "first_alerted_at": "2026-11-08T19:51:31.094650+00:00"
+  },
+  "328a7ed74dc491a2": {
+    "title": "Claude Max Users",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr5hz7/claude_max_users/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:35:50+00:00",
+    "first_alerted_at": "2026-11-08T19:51:32.178562+00:00"
+  },
+  "3a949697b23b739f": {
+    "title": "Like Google Analytics, but for your Claude Code sessions and projects (free, runs locally)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr5xhy/like_google_analytics_but_for_your_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:53:39+00:00",
+    "first_alerted_at": "2026-11-08T19:51:33.266435+00:00"
+  },
+  "40730b2eabc0257b": {
+    "title": "What are the best resources you’ve found / that you use to get the best work out of Claude and LLMs? My challenges:",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr5iya/what_are_the_best_resources_youve_found_that_you/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:37:00+00:00",
+    "first_alerted_at": "2026-11-08T19:51:34.359983+00:00"
+  },
+  "d138df9da9800947": {
+    "title": "New to claude code need advice from long time users",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr51d9/new_to_claude_code_need_advice_from_long_time/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:16:53+00:00",
+    "first_alerted_at": "2026-11-08T19:51:35.435353+00:00"
+  },
+  "dfb2b6cfc0eba8ff": {
+    "title": "AI improved my mental health",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr57xr/ai_improved_my_mental_health/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:24:21+00:00",
+    "first_alerted_at": "2026-11-08T19:51:36.524571+00:00"
+  },
+  "af50fb616d931046": {
+    "title": "If you had one month and unlimited opus 5.5 tokens, what would you build?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr5yps/if_you_had_one_month_and_unlimited_opus_55_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:55:01+00:00",
+    "first_alerted_at": "2026-11-08T19:51:37.591145+00:00"
   }
 }
