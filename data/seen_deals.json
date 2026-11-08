@@ -17197,5 +17197,167 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T07:38:56+00:00",
     "first_alerted_at": "2026-11-08T08:18:23.887618+00:00"
+  },
+  "e127f6d4c69977e7": {
+    "title": "I found a offer of 100M tokens for 10 bucks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr075k/i_found_a_offer_of_100m_tokens_for_10_bucks/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T14:52:56+00:00",
+    "first_alerted_at": "2026-11-08T15:26:35.582354+00:00"
+  },
+  "e557346a89a61979": {
+    "title": "If you ever clicked “Yes, and don’t ask again” in Claude Code, check one file before your next push",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqxx5b/if_you_ever_clicked_yes_and_dont_ask_again_in/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T13:01:53+00:00",
+    "first_alerted_at": "2026-11-08T15:26:36.580998+00:00"
+  },
+  "cc19b787a8f3b381": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/nvidia-nemotron-3-5-lightning-free/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.041364+00:00",
+    "first_alerted_at": "2026-11-08T15:26:37.612690+00:00"
+  },
+  "220f2095f25ec611": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/stealth-crouton-alpha/\" target=\"_blank\" rel=\"noopener\">Crouton Alpha</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-crouton-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.041997+00:00",
+    "first_alerted_at": "2026-11-08T15:26:38.609554+00:00"
+  },
+  "e5d4443720a4cd5d": {
+    "title": "Get $175 Free Claude Code API Credits | AgentRouter Free API Tutorial - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xdE1IV2RRNURrTFF4ZTUtLUNzcHpBU29jd1NFREdkQ19mTHpKWC14b3pnWjlCbGlhbHZPUnlWNWYxOG4ySWNaaGRLYzJfZ0xvMzdtM2cwWHZpQmp2?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-20T07:00:00+00:00",
+    "first_alerted_at": "2026-11-08T15:26:39.609576+00:00"
+  },
+  "f4e6b5f61d43295c": {
+    "title": "Advanced software specification and development with Agentic Software Engineering (ASE) inside Claude Code CLI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr07xt/advanced_software_specification_and_development/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:53:58+00:00",
+    "first_alerted_at": "2026-11-08T15:26:40.618479+00:00"
+  },
+  "a31cea79160dea11": {
+    "title": "A native YouTube Music player for Windows that runs in one 81 MB process, built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqzufv/a_native_youtube_music_player_for_windows_that/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:36:32+00:00",
+    "first_alerted_at": "2026-11-08T15:26:41.643723+00:00"
+  },
+  "237ce7522f6eda1c": {
+    "title": "Four days of Claude Code: a 24/7 world where four capybaras live their own lives (with a live stream, auto-posted clips and a press kit)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqxk40/four_days_of_claude_code_a_247_world_where_four/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:42:28+00:00",
+    "first_alerted_at": "2026-11-08T15:26:42.650040+00:00"
+  },
+  "daa0b935addd6d39": {
+    "title": "I built Orchestra, a free Windows terminal for running many Claude Code sessions at once",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr0616/i_built_orchestra_a_free_windows_terminal_for/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:51:30+00:00",
+    "first_alerted_at": "2026-11-08T15:26:43.771285+00:00"
+  },
+  "2458b6cd39a78b72": {
+    "title": "My MCP server said \"typed, verified\" and the text never arrived. 20 rounds of Claude and Gemini reviewing each other's code missed it; a real-device run caught it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqz95g/my_mcp_server_said_typed_verified_and_the_text/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:08:38+00:00",
+    "first_alerted_at": "2026-11-08T15:26:44.847766+00:00"
+  },
+  "06dd9060fda376b3": {
+    "title": "Kept hitting my Claude Code limit mid-task, so I built an Android widget for it with Claude Code. Looking for testers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqwkdt/kept_hitting_my_claude_code_limit_midtask_so_i/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T11:43:59+00:00",
+    "first_alerted_at": "2026-11-08T15:26:45.859235+00:00"
+  },
+  "446de6593def200c": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://api.aionlabs.ai/v1`",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.038495+00:00",
+    "first_alerted_at": "2026-11-08T15:26:46.865624+00:00"
+  },
+  "c69405b83d0025b6": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-crouton-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.039453+00:00",
+    "first_alerted_at": "2026-11-08T15:26:47.946687+00:00"
+  },
+  "528dcb1febae0ce1": {
+    "title": "I am trying to replicate a specific SaaS promo motion graphics style",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqzatg/i_am_trying_to_replicate_a_specific_saas_promo/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:10:48+00:00",
+    "first_alerted_at": "2026-11-08T15:26:48.954728+00:00"
+  },
+  "e623fcb47febabf5": {
+    "title": "Cohere Free API / Developer Tier",
+    "url": "https://api.aionlabs.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.038648+00:00",
+    "first_alerted_at": "2026-11-08T15:26:49.951791+00:00"
+  },
+  "9eb49ec03ca4fe43": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/cohere-north-mini-code-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.039693+00:00",
+    "first_alerted_at": "2026-11-08T15:26:51.011387+00:00"
+  },
+  "ecbfa23d34dcd2da": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/llm7-io/nemotron-3-nano-30b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.039776+00:00",
+    "first_alerted_at": "2026-11-08T15:26:52.015404+00:00"
+  },
+  "abe8e6653019f58d": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ovhcloud-ai-endpoints/gpt-oss-120b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T15:26:30.040031+00:00",
+    "first_alerted_at": "2026-11-08T15:26:53.004748+00:00"
   }
 }
