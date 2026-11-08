@@ -17143,5 +17143,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T00:06:16+00:00",
     "first_alerted_at": "2026-11-08T01:38:11.810634+00:00"
+  },
+  "54342fdce803bd4e": {
+    "title": "What’s actually breaking when you run multiple Claude Code agents together?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqrv0a/whats_actually_breaking_when_you_run_multiple/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T06:33:59+00:00",
+    "first_alerted_at": "2026-11-08T08:18:18.766561+00:00"
+  },
+  "e9448d21522832cd": {
+    "title": "Developing a multiplayer extraction RTS using AI only, with Opus 5.5 orchestrating sub-agents. Three lessons and the original prompt",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqscg6/developing_a_multiplayer_extraction_rts_using_ai/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T07:04:57+00:00",
+    "first_alerted_at": "2026-11-08T08:18:19.795066+00:00"
+  },
+  "e76a8f82b8480d31": {
+    "title": "I built a bug-capture connector for Claude with Claude Code. It just got through the connector directory review, here's what I learned",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqq1sz/i_built_a_bugcapture_connector_for_claude_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T04:45:26+00:00",
+    "first_alerted_at": "2026-11-08T08:18:20.822497+00:00"
+  },
+  "1c6bebf02c14c936": {
+    "title": "What is your normal starting context size in Claude Code (Desktop App)?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqq39j/what_is_your_normal_starting_context_size_in/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T04:47:45+00:00",
+    "first_alerted_at": "2026-11-08T08:18:21.839658+00:00"
+  },
+  "cd2ab8391e980cd9": {
+    "title": "Sick of semantic substitution",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqp2l0/sick_of_semantic_substitution/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T03:49:58+00:00",
+    "first_alerted_at": "2026-11-08T08:18:22.865852+00:00"
+  },
+  "d6a59d7b3b21fff5": {
+    "title": "I gave Claude explicit permission to delete 119 of my own artifacts: it is forcing me to delete each of them one by one.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqsvcd/i_gave_claude_explicit_permission_to_delete_119/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T07:38:56+00:00",
+    "first_alerted_at": "2026-11-08T08:18:23.887618+00:00"
   }
 }
