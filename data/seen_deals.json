@@ -17593,5 +17593,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-09T05:15:17+00:00",
     "first_alerted_at": "2026-11-09T10:37:14.352620+00:00"
+  },
+  "76c9b09f91427694": {
+    "title": "OpenAI reopens Pro plan, halves API credits amid pay-per-use shift - TechGig",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVE42dXFxT054M0E4Z3ZVMEpiOUlueFBFYVZSd3RPQmtRSFpuZG1aMFhObU9CX1puZ3RmNHZmODNpVTA3dnNxcENuQTBxMHBGeVNiSjF1UWp0MEVaYmdRNzRuZmh6bnBHOXpCdnB5N1VaemZlN0hLZWdsVnhHZ2trUkNweUJFQ21qTm96eVl5enZvNUdZZlZsLXV5U1FzN0MzUlFmazhoTdIBpwFBVV95cUxPVE42dXFxT054M0E4Z3ZVMEpiOUlueFBFYVZSd3RPQmtRSFpuZG1aMFhObU9CX1puZ3RmNHZmODNpVTA3dnNxcENuQTBxMHBGeVNiSjF1UWp0MEVaYmdRNzRuZmh6bnBHOXpCdnB5N1VaemZlN0hLZWdsVnhHZ2trUkNweUJFQ21qTm96eVl5enZvNUdZZlZsLXV5U1FzN0MzUlFmazhoTQ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T07:00:00+00:00",
+    "first_alerted_at": "2026-11-09T21:12:12.764774+00:00"
+  },
+  "5e5b69a4c5ddcbac": {
+    "title": "Fable 5.2 REVIEW Here is what's actually different and what to try first (cheaper, faster, way fewer blocks)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs2wdl/fable_52_review_here_is_whats_actually_different/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T20:33:23+00:00",
+    "first_alerted_at": "2026-11-09T21:12:13.824799+00:00"
+  },
+  "703709506a36b9fe": {
+    "title": "Most of my Claude Code tokens went to subagents re-reading their own context. This CLAUDE.md section fixed it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs1d5y/most_of_my_claude_code_tokens_went_to_subagents/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T19:35:41+00:00",
+    "first_alerted_at": "2026-11-09T21:12:14.873547+00:00"
+  },
+  "46948cc823d7ed31": {
+    "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
+    "url": "https://slurp.run/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T14:30:22+00:00",
+    "first_alerted_at": "2026-11-09T21:12:15.938194+00:00"
+  },
+  "75e4b1af74bcd6ee": {
+    "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
+    "url": "https://thrum.team/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T14:59:42+00:00",
+    "first_alerted_at": "2026-11-09T21:12:16.978235+00:00"
+  },
+  "3084a960113729cf": {
+    "title": "Built two free Polymarket tools with Claude Dashboards + Supabase: a market board and a virtual-betting lab (no real money)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs1uaz/built_two_free_polymarket_tools_with_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T19:53:31+00:00",
+    "first_alerted_at": "2026-11-09T21:12:18.029221+00:00"
   }
 }

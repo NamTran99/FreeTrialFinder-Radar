@@ -202,5 +202,17 @@
     "source": "GitHub Repo (⭐3845)",
     "score": 85,
     "discovered_at": "2026-11-09T10:37:16.230456+00:00"
+  },
+  "https://github.com/jliushi/ai-relay": {
+    "title": "jliushi/ai-relay: 实测可用的 AI 公益站清单 — Claude Code / Codex 免费额度、倍率、注册赠额与邀请规则，每条标注实测日期",
+    "source": "GitHub Repo (⭐2)",
+    "score": 85,
+    "discovered_at": "2026-11-09T21:12:20.337345+00:00"
+  },
+  "https://github.com/ax128/pi-llmgates": {
+    "title": "ax128/pi-llmgates: Pi provider 扩展，对接 LLMGates 网关：从 GET /v1/models 动态发现模型，注册到 pi，并按模型路由到对应的 OpenAI 兼容推理端点。另提供 2API 兼容层，可并行接入多个 New",
+    "source": "GitHub Repo (⭐8)",
+    "score": 85,
+    "discovered_at": "2026-11-09T21:12:20.337578+00:00"
   }
 }
