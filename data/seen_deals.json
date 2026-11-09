@@ -17485,5 +17485,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T19:50:39+00:00",
     "first_alerted_at": "2026-11-08T23:17:50.493701+00:00"
+  },
+  "c357d8dbff12b3a8": {
+    "title": "OpenAI's Indirect \"Price Cut\": ChatGPT Pro and Business Users Can Claim Up to $500 in Monthly API Credits - 深潮TechFlow",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94cGItNE9hSjlkNHJPR1J4VVdXMDdZNG1kOTJPeHVZRno1eExwLWlSMmp6QVNUTWxmZFdMZlB2M043aW04UmxSMnhmVldSVVM1Y3RBNnFaODVIUE1i?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T05:31:16+00:00",
+    "first_alerted_at": "2026-11-09T02:49:21.328495+00:00"
+  },
+  "83a7d0f6271b7970": {
+    "title": "I turned Claude Code into a personal assistant that asks before it acts",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrfn0e/i_turned_claude_code_into_a_personal_assistant/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T02:08:56+00:00",
+    "first_alerted_at": "2026-11-09T02:49:22.464755+00:00"
+  },
+  "48205e04fba28e46": {
+    "title": "Paying ~18¢ per shop for an AI agent to call two APIs. What’s the cheaper way to get the same info?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrdbr8/paying_18_per_shop_for_an_ai_agent_to_call_two/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T00:15:01+00:00",
+    "first_alerted_at": "2026-11-09T02:49:23.590150+00:00"
+  },
+  "f73b402860a46d4c": {
+    "title": "Built with Claude Code: a step-by-step explainer of how Claude Code works, made from its own recorded sessions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrcdib/built_with_claude_code_a_stepbystep_explainer_of/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T23:30:25+00:00",
+    "first_alerted_at": "2026-11-09T02:49:24.722449+00:00"
   }
 }
