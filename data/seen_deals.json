@@ -17647,5 +17647,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-09T19:53:31+00:00",
     "first_alerted_at": "2026-11-09T21:12:18.029221+00:00"
+  },
+  "09ea46b76c94c912": {
+    "title": "Show HN: Brick Atlas: Explore 1000+ LEGO sets on one zoomable canvas",
+    "url": "https://showcase.zoomhub.net/ecommerce/brick-atlas",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T21:52:44+00:00",
+    "first_alerted_at": "2026-11-10T03:40:43.231088+00:00"
+  },
+  "c565c3cc38a2819f": {
+    "title": "Opus 5.5 vs The Password Game",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xscfm8/opus_55_vs_the_password_game/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T03:26:10+00:00",
+    "first_alerted_at": "2026-11-10T03:40:44.239549+00:00"
   }
 }
