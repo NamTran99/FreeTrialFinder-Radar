@@ -17665,5 +17665,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-10T03:26:10+00:00",
     "first_alerted_at": "2026-11-10T03:40:44.239549+00:00"
+  },
+  "101b54475ee9f0d7": {
+    "title": "OpenAI reopens Pro plan, halves API credits amid pay-per-use shift - TechGig",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHJsUUVHcV96Y1QzVXVSenNJZjdfeFJFanBycVpUZ0hnMUJuczQxcG9YQ3RYdm9RN0xvMkpQUEhld0cySldicnhUYm1VMWItVEt0M0hGeE1yc2dUOXFqN3F6azRzRmwyYXM3cHRyOVlWYlVNSWkyMm9BSGxCZjR6dWZZa3AxOWNvOGo3Zm1Yd3FQSzFaOTZ0V21JREgtakFyOUHSAacBQVVfeXFMT1RONnVxcU9OeDNBOGd2VTBKYjlJbnhQRWFWUnd0T0JrUUhabmRtWjBYTm1PQl9abmd0ZjR2ZjgzaVUwN3ZzcXBDbkEwcTBwRnlTYkoxdVFqdDBFWmJnUTc0bmZoem5wRzl6QnZweTdVWnpmZTdIS2VnbFZ4R2dra1JDcHlCRUNtak5venlZeXp2bzVHWWZWbC11eVNRczdDM1JRZms4aE0?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T07:00:00+00:00",
+    "first_alerted_at": "2026-11-10T11:57:11.340808+00:00"
+  },
+  "b6b51db18e04b698": {
+    "title": "Fable 5.2 cost 8x more than GPT-6.1 Sol for the same Cars race",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xskg47/fable_52_cost_8x_more_than_gpt61_sol_for_the_same/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T11:24:13+00:00",
+    "first_alerted_at": "2026-11-10T11:57:12.542075+00:00"
+  },
+  "fd0a4a6d68bb5c36": {
+    "title": "I let Claude Code run a fault-injection test-and-fix loop on Ceph for two weeks: 55 real bugs, $840, and what went wrong",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsjmgm/i_let_claude_code_run_a_faultinjection_testandfix/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T10:35:01+00:00",
+    "first_alerted_at": "2026-11-10T11:57:13.590866+00:00"
+  },
+  "bb3ac51e543bc72f": {
+    "title": "anti-anti-REA: A tool that undoes BLA hardening so coding agents can read the code again",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xskxw2/antiantirea_a_tool_that_undoes_bla_hardening_so/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T11:52:38+00:00",
+    "first_alerted_at": "2026-11-10T11:57:14.679780+00:00"
+  },
+  "e9d492657196bbc7": {
+    "title": "Fable 5.2 not showing in VSCode Claude extension",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xskmpz/fable_52_not_showing_in_vscode_claude_extension/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T11:34:57+00:00",
+    "first_alerted_at": "2026-11-10T11:57:15.747699+00:00"
+  },
+  "43c0240fbaace2c6": {
+    "title": "Claude Fable 5.2 is a BIG upgrade over 5.1!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsk4qj/claude_fable_52_is_a_big_upgrade_over_51/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T11:05:12+00:00",
+    "first_alerted_at": "2026-11-10T11:57:16.814281+00:00"
   }
 }
