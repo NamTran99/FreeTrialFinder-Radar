@@ -232,5 +232,11 @@
     "source": "NodeSeek",
     "score": 85,
     "discovered_at": "2026-11-11T00:08:05.563766+00:00"
+  },
+  "https://github.com/dvstudio-app/VoiceWink": {
+    "title": "dvstudio-app/VoiceWink: Voice-to-text for Windows 11: press a hotkey, talk, and your words land at the cursor in any app. Dictation an",
+    "source": "GitHub Repo (⭐8)",
+    "score": 85,
+    "discovered_at": "2026-11-11T14:49:59.819986+00:00"
   }
 }
