@@ -17791,5 +17791,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-10T22:56:23+00:00",
     "first_alerted_at": "2026-11-11T00:08:03.108605+00:00"
+  },
+  "d4c92e8f019ce26f": {
+    "title": "Ask Claude \"who raised a seed round this week?\" with a custom connector I built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt940g/ask_claude_who_raised_a_seed_round_this_week_with/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-11T05:05:36+00:00",
+    "first_alerted_at": "2026-11-11T06:52:00.714993+00:00"
+  },
+  "4eb7b1b32b0195a5": {
+    "title": "I ran the same 5 tests on Fable 5.2, Fable 5.1, Opus 5.5, Sonnet 5.5 and Haiku 5.5. Opus won most of them.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xta8qt/i_ran_the_same_5_tests_on_fable_52_fable_51_opus/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T06:08:43+00:00",
+    "first_alerted_at": "2026-11-11T06:52:01.893113+00:00"
+  },
+  "b59f2d33a633c1ee": {
+    "title": "If you could only spend 100 dollars a month on AI and only use one model, what would you buy? Chat GPT Pro (100 dollars), Gemini Ultra, Claude Max (100 dollars) or something else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt9d9t/if_you_could_only_spend_100_dollars_a_month_on_ai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T05:19:25+00:00",
+    "first_alerted_at": "2026-11-11T06:52:03.043802+00:00"
+  },
+  "861262fb322fd3c8": {
+    "title": "Show HN: Zeus – Claude Code for AI voice agents",
+    "url": "https://thunderphone.com/blog/introducing-zeus",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T20:20:03+00:00",
+    "first_alerted_at": "2026-11-11T06:52:04.261801+00:00"
+  },
+  "661f0c3054f72f86": {
+    "title": "Millions of tokens for only HI ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt9rwq/millions_of_tokens_for_only_hi/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T05:42:13+00:00",
+    "first_alerted_at": "2026-11-11T06:52:05.495457+00:00"
+  },
+  "0f16eb5102391e50": {
+    "title": "How do you actually get the absolute most out of Claude? (Looking to move past basic prompt/review workflows)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt8pdh/how_do_you_actually_get_the_absolute_most_out_of/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T04:43:46+00:00",
+    "first_alerted_at": "2026-11-11T06:52:06.648688+00:00"
+  },
+  "12cfd35ab9c7c716": {
+    "title": "Help from those smarter",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt77ns/help_from_those_smarter/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T03:25:46+00:00",
+    "first_alerted_at": "2026-11-11T06:52:07.827338+00:00"
   }
 }
