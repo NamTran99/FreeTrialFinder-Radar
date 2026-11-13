@@ -18169,5 +18169,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-12T21:19:22+00:00",
     "first_alerted_at": "2026-11-12T23:46:52.211087+00:00"
+  },
+  "6a99638b221df09b": {
+    "title": "Claude to collect and monitor all Global Laws in Git",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuuy2o/claude_to_collect_and_monitor_all_global_laws_in/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T01:35:56+00:00",
+    "first_alerted_at": "2026-11-13T04:04:10.644488+00:00"
+  },
+  "ffc951ea8f0c18bb": {
+    "title": "A 10-minute 'manual dreaming' pass for your CLAUDE.md and memory files",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuwooe/a_10minute_manual_dreaming_pass_for_your_claudemd/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T03:00:20+00:00",
+    "first_alerted_at": "2026-11-13T04:04:11.715917+00:00"
+  },
+  "d90a5a6b0c7c4afa": {
+    "title": "Claude Managed Agents can now be self-hosted (private beta): harness, sandboxes, credentials and session history all run in your own cloud",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuwdfs/claude_managed_agents_can_now_be_selfhosted/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:45:06+00:00",
+    "first_alerted_at": "2026-11-13T04:04:12.822062+00:00"
+  },
+  "70b34fbe3dc10d47": {
+    "title": "Claude Managed Agents can now run self-hosted, inside your own perimeter (private beta)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuw68g/claude_managed_agents_can_now_run_selfhosted/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:35:19+00:00",
+    "first_alerted_at": "2026-11-13T04:04:13.914855+00:00"
+  },
+  "6a0c328f4e2973cd": {
+    "title": "Fable 5.2 vs. Opus 5.5: one more pass, 6.7% fewer output tokens, and $16.34 vs. $8.55",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuwc6o/fable_52_vs_opus_55_one_more_pass_67_fewer_output/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:43:21+00:00",
+    "first_alerted_at": "2026-11-13T04:04:14.989733+00:00"
+  },
+  "6fabf637bd5d648d": {
+    "title": "I used Claude to build an AI design tool for social & marketing posts and I'm already using it for my side gigs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuvjdv/i_used_claude_to_build_an_ai_design_tool_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:04:36+00:00",
+    "first_alerted_at": "2026-11-13T04:04:16.059516+00:00"
+  },
+  "85f1cb6f59e7a090": {
+    "title": "I wish Duet was just integrated into Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuthsa/i_wish_duet_was_just_integrated_into_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T00:27:57+00:00",
+    "first_alerted_at": "2026-11-13T04:04:17.140667+00:00"
   }
 }
