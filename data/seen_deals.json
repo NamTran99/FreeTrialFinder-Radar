@@ -18232,5 +18232,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T00:27:57+00:00",
     "first_alerted_at": "2026-11-13T04:04:17.140667+00:00"
+  },
+  "9832858a12d504e5": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/baidu-ernie-5.5-flash-preview/\" target=\"_blank\" rel=\"noopener\">Baidu: ERNIE-5.5-Flash-Preview free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/baidu-ernie-5.5-flash-preview/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T12:27:08.973139+00:00",
+    "first_alerted_at": "2026-11-13T12:27:15.550030+00:00"
+  },
+  "692c9b51bdeaa871": {
+    "title": "Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat",
+    "url": "https://wonderchat.io/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T06:59:21+00:00",
+    "first_alerted_at": "2026-11-13T12:27:16.669494+00:00"
+  },
+  "f909bf3f0dac647c": {
+    "title": "Running Claude Code headless as a team of scheduled agents: what we had to move outside the model",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv3kmi/running_claude_code_headless_as_a_team_of/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T09:36:03+00:00",
+    "first_alerted_at": "2026-11-13T12:27:17.802158+00:00"
+  },
+  "9d20cb69ad9da2ed": {
+    "title": "Weather Jars - tiny cities in a shed, live weather, built with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv1xhk/weather_jars_tiny_cities_in_a_shed_live_weather/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T07:52:32+00:00",
+    "first_alerted_at": "2026-11-13T12:27:19.011609+00:00"
+  },
+  "cae6f3502c2e6afb": {
+    "title": "I let Claude drive my TUI application like a real user. It found multiple UX bugs.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv28e4/i_let_claude_drive_my_tui_application_like_a_real/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T08:10:33+00:00",
+    "first_alerted_at": "2026-11-13T12:27:20.148207+00:00"
+  },
+  "c626555f64e2d918": {
+    "title": "Ollama Cloud Free API / Developer Tier",
+    "url": "https://ollama.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T12:27:08.970782+00:00",
+    "first_alerted_at": "2026-11-13T12:27:21.273758+00:00"
+  },
+  "e1426b193923c2e4": {
+    "title": "Best model for animation yt video generation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv2vh0/best_model_for_animation_yt_video_generation/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T08:51:34+00:00",
+    "first_alerted_at": "2026-11-13T12:27:22.440156+00:00"
   }
 }

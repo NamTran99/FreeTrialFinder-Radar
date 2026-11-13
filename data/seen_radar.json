@@ -250,5 +250,23 @@
     "source": "NodeSeek",
     "score": 85,
     "discovered_at": "2026-11-13T04:04:19.532943+00:00"
+  },
+  "https://www.v2ex.com/t/1256915": {
+    "title": "[白嫖] 频繁触发 AI 风控？适配 ChatGPT、Claude 的纯净 IP 免费送",
+    "source": "V2EX Latest (0💬)",
+    "score": 100,
+    "discovered_at": "2026-11-13T12:27:25.488932+00:00"
+  },
+  "https://www.v2ex.com/t/1256909": {
+    "title": "[乐子瓜] 宝塔面板 WAF 漏洞一堆， Fail2Ban 也有问题的！？（转自 L 站）",
+    "source": "V2EX Latest (1💬)",
+    "score": 85,
+    "discovered_at": "2026-11-13T12:27:25.488973+00:00"
+  },
+  "https://github.com/lza6/FunAI-2api": {
+    "title": "lza6/FunAI-2api: FunAI (com.aski.chatgpt.ai.chatbot) v1.5.15 逆向: cognise.art 图库检索协议全通(硬编码token+5生成模型)+vicuna.cognise.art 聊天V3协议",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-13T12:27:25.489431+00:00"
   }
 }
