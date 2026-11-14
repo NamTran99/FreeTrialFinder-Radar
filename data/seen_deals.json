@@ -18403,5 +18403,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T18:35:20+00:00",
     "first_alerted_at": "2026-11-13T19:56:21.609934+00:00"
+  },
+  "75fbdbf383dd64ad": {
+    "title": "Is it me or is Opus actually more of a footgun than sonnet",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvj61w/is_it_me_or_is_opus_actually_more_of_a_footgun/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T20:43:55+00:00",
+    "first_alerted_at": "2026-11-14T00:35:32.408844+00:00"
+  },
+  "a4f860f8a6d36cd4": {
+    "title": "Wilson's Survival Guide for November 6-13, 2026 now available!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnhjz/wilsons_survival_guide_for_november_613_2026_now/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T23:43:46+00:00",
+    "first_alerted_at": "2026-11-14T00:35:33.394715+00:00"
+  },
+  "4bc55d482f570e8f": {
+    "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+    "url": "https://news.ycombinator.com/item?id=50491841",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T23:50:03+00:00",
+    "first_alerted_at": "2026-11-14T00:35:34.382454+00:00"
+  },
+  "8319ccbc8efc439c": {
+    "title": "Help prevent me being dumb",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvkaws/help_prevent_me_being_dumb/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T21:28:18+00:00",
+    "first_alerted_at": "2026-11-14T00:35:35.390180+00:00"
+  },
+  "b33c29435b9f403e": {
+    "title": "**Title:** Is plan mode still worth using in Claude Code on Fable 5.2?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnijo/title_is_plan_mode_still_worth_using_in_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T23:45:03+00:00",
+    "first_alerted_at": "2026-11-14T00:35:36.389968+00:00"
+  },
+  "78a12f8d4ee6c562": {
+    "title": "Opus 5.5 vs Fable 5.2 made Animation from a single prompt. Who Won Blind Test?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvkctp/opus_55_vs_fable_52_made_animation_from_a_single/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T21:30:30+00:00",
+    "first_alerted_at": "2026-11-14T00:35:37.383327+00:00"
   }
 }
