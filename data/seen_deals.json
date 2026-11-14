@@ -18511,5 +18511,257 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-14T11:49:44+00:00",
     "first_alerted_at": "2026-11-14T14:22:50.270537+00:00"
+  },
+  "6d7bae913b6cbd4b": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nvidia-nemotron-3-nano-omni-30b-a3b-reasoning/\" target=\"_blank\" rel=\"noopener\">NVIDIA: Nemotron 3 Nano Omni free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3-nano-omni-30b-a3b-reasoning/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.007259+00:00",
+    "first_alerted_at": "2026-11-14T19:19:55.883272+00:00"
+  },
+  "784cc90785cb91b2": {
+    "title": "I built CodeRelay, an open-source tool for handing off work between teammates' AI agents",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwarae/i_built_coderelay_an_opensource_tool_for_handing/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:17:30+00:00",
+    "first_alerted_at": "2026-11-14T19:20:11.741287+00:00"
+  },
+  "5074a57cbfaeebab": {
+    "title": "I handed my startup's marketing to 6 Claude agents running on my Mac. Here are the real numbers after one week, zeros included.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw9wze/i_handed_my_startups_marketing_to_6_claude_agents/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:43:23+00:00",
+    "first_alerted_at": "2026-11-14T19:20:27.603970+00:00"
+  },
+  "83886038e69e0969": {
+    "title": "Fretbot is a free interactive guitar theory tool built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw9hkn/fretbot_is_a_free_interactive_guitar_theory_tool/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:26:10+00:00",
+    "first_alerted_at": "2026-11-14T19:20:43.468058+00:00"
+  },
+  "c2355f291d0daf4f": {
+    "title": "Show HN: YVD – Generate videos, images, and music in seconds with AI",
+    "url": "https://yvd.io/",
+    "provider": "General AI",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T17:48:35+00:00",
+    "first_alerted_at": "2026-11-14T19:20:59.310290+00:00"
+  },
+  "5ae88b6cb8a3dfc2": {
+    "title": "I built ywza with Claude Code: an MCP server that lets Claude use your PC, from your phone",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwaaff/i_built_ywza_with_claude_code_an_mcp_server_that/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:58:37+00:00",
+    "first_alerted_at": "2026-11-14T19:21:15.148935+00:00"
+  },
+  "d1955c00907ab725": {
+    "title": "I built Not-Everything with Claude Code: a free, open-source Everything-style file search for macOS",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw94nk/i_built_noteverything_with_claude_code_a_free/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:11:52+00:00",
+    "first_alerted_at": "2026-11-14T19:21:31.022457+00:00"
+  },
+  "41412da9a2f5d72c": {
+    "title": "Anyone using the NEW Claude Code Projects beta? Is it replacing your terminal/desktop workflow?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw76js/anyone_using_the_new_claude_code_projects_beta_is/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T16:54:08+00:00",
+    "first_alerted_at": "2026-11-14T19:21:46.886004+00:00"
+  },
+  "ce0272f6b6b38339": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-openai-gpt-oss-120b/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005836+00:00",
+    "first_alerted_at": "2026-11-14T19:22:02.839205+00:00"
+  },
+  "d7eab1ee8db39a36": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/qwen-qwen3-8-27b/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006386+00:00",
+    "first_alerted_at": "2026-11-14T19:22:18.703916+00:00"
+  },
+  "031067a344215f7e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/whisper-large-v3/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006406+00:00",
+    "first_alerted_at": "2026-11-14T19:22:34.566207+00:00"
+  },
+  "e08a9731ed0fa686": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/whisper-large-v3-turbo/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006425+00:00",
+    "first_alerted_at": "2026-11-14T19:22:50.432313+00:00"
+  },
+  "10e0349316eff5b8": {
+    "title": "Question: Out of the loop. What service to use now for app development? Claude vs. Codex vs.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw6m53/question_out_of_the_loop_what_service_to_use_now/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T16:31:07+00:00",
+    "first_alerted_at": "2026-11-14T19:23:06.309724+00:00"
+  },
+  "463578147f1dfba7": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/poolside-laguna-xs-2-1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005741+00:00",
+    "first_alerted_at": "2026-11-14T19:23:22.138086+00:00"
+  },
+  "8b9a4ae4111656fe": {
+    "title": "Cloudflare Workers AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-meta-llama-3-3-70b-instruct-fp8-fast/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005799+00:00",
+    "first_alerted_at": "2026-11-14T19:23:38.000403+00:00"
+  },
+  "087f1db6f321a2b2": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-meta-llama-4-scout-17b-16e-instruct/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005818+00:00",
+    "first_alerted_at": "2026-11-14T19:23:53.866003+00:00"
+  },
+  "821600aa59ca3036": {
+    "title": "ModelScope Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/medaibase-antangelmed/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005852+00:00",
+    "first_alerted_at": "2026-11-14T19:24:09.736668+00:00"
+  },
+  "c75fbe535ec366b5": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/meituan-longcat-longcat-flash-lite/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005872+00:00",
+    "first_alerted_at": "2026-11-14T19:24:25.603558+00:00"
+  },
+  "b6390bab8b52c6bb": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/minimax-minimax-m1-80k/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005894+00:00",
+    "first_alerted_at": "2026-11-14T19:24:39.026141+00:00"
+  },
+  "b68fa605d0a25fdc": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/nemotron-3.5-lightning-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005927+00:00",
+    "first_alerted_at": "2026-11-14T19:24:40.258348+00:00"
+  },
+  "7ff6f78320dc9b18": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/deepseek-v4-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.005944+00:00",
+    "first_alerted_at": "2026-11-14T19:24:41.525517+00:00"
+  },
+  "83bf5fdbaeedafb2": {
+    "title": "Agnes AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-image-2.0-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006337+00:00",
+    "first_alerted_at": "2026-11-14T19:24:42.752506+00:00"
+  },
+  "1a884ad568856725": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-image-2.1-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006354+00:00",
+    "first_alerted_at": "2026-11-14T19:24:43.976304+00:00"
+  },
+  "f850f7e1e8ed6c8a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-2.5-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006370+00:00",
+    "first_alerted_at": "2026-11-14T19:24:45.151276+00:00"
+  },
+  "d828a0fae57fede4": {
+    "title": "Z AI Zhipu AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-5-air/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006683+00:00",
+    "first_alerted_at": "2026-11-14T19:24:46.375864+00:00"
+  },
+  "639c53fd2c4d4063": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-7-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006701+00:00",
+    "first_alerted_at": "2026-11-14T19:24:47.602856+00:00"
+  },
+  "f26abe219b74a054": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-5-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:19:36.006719+00:00",
+    "first_alerted_at": "2026-11-14T19:24:48.820374+00:00"
+  },
+  "ef251abd1d4ca8f5": {
+    "title": "How to manage merge conflicts, when running many (50+) agents in parallel",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw8nhl/how_to_manage_merge_conflicts_when_running_many/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T17:52:55+00:00",
+    "first_alerted_at": "2026-11-14T19:24:49.985579+00:00"
   }
 }
