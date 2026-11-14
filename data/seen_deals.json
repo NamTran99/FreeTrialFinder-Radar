@@ -18763,5 +18763,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-14T17:52:55+00:00",
     "first_alerted_at": "2026-11-14T19:24:49.985579+00:00"
+  },
+  "4ce5e18536c223ed": {
+    "title": "What is a weekly limit actually worth in tokens? Paste one prompt, so we can all figure it out",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwfhwn/what_is_a_weekly_limit_actually_worth_in_tokens/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-14T22:44:47+00:00",
+    "first_alerted_at": "2026-11-14T23:12:15.848439+00:00"
+  },
+  "880dc2f5b1995a4a": {
+    "title": "We had Claude Opus 5.5 and Gemini 4 Hydrogen paint the same oil study in an unreleased engine",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwf0mt/we_had_claude_opus_55_and_gemini_4_hydrogen_paint/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-14T22:22:37+00:00",
+    "first_alerted_at": "2026-11-14T23:12:17.062789+00:00"
+  },
+  "dc0629417eeaeebe": {
+    "title": "I built a tool to measure how many tokens Claude Code burns on writes that get thrown away",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwd3ca/i_built_a_tool_to_measure_how_many_tokens_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-14T20:56:40+00:00",
+    "first_alerted_at": "2026-11-14T23:12:18.220641+00:00"
+  },
+  "1ef1e7c671ee9fb7": {
+    "title": "Claude went from 37% to 61% of AI-builder job postings this year, and four in five companies hiring for AI coding ask for Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwe6q9/claude_went_from_37_to_61_of_aibuilder_job/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T21:45:03+00:00",
+    "first_alerted_at": "2026-11-14T23:12:19.408593+00:00"
+  },
+  "769167555683bee2": {
+    "title": "I gave 5 models the same one-paragraph prompt every day for 3 weeks and published whatever came back (mostly unedited). 80 apps later, each model has a very obvious personality.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwfxy6/i_gave_5_models_the_same_oneparagraph_prompt/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T23:05:08+00:00",
+    "first_alerted_at": "2026-11-14T23:12:20.630244+00:00"
+  },
+  "05fc7120b67a1e69": {
+    "title": "I built a video editor for Claude, with Claude Code: Claude edits a real timeline, and you fix any layer by hand instead of re-prompting",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwfnj5/i_built_a_video_editor_for_claude_with_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T22:51:57+00:00",
+    "first_alerted_at": "2026-11-14T23:12:21.790550+00:00"
   }
 }
