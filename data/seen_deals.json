@@ -18475,5 +18475,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-14T06:05:02+00:00",
     "first_alerted_at": "2026-11-14T07:11:45.135451+00:00"
+  },
+  "598db3db157bd16e": {
+    "title": "I turned Karpathy's \"80% of the way to ASD-STE100\" tip into a Claude skill that makes AI text readable",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T13:29:46+00:00",
+    "first_alerted_at": "2026-11-14T14:22:46.969463+00:00"
+  },
+  "06c7b8d86d748d50": {
+    "title": "I built an explorable drop of pond water with Claude Fable 5.2 in two days (browser + VR, all procedural)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyy70/i_built_an_explorable_drop_of_pond_water_with/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T10:11:37+00:00",
+    "first_alerted_at": "2026-11-14T14:22:48.113488+00:00"
+  },
+  "9846a7056ca8cc73": {
+    "title": "Show HN: Yet another agent manager (but we needed it)",
+    "url": "https://varinomics.com/logonomic/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T13:44:19+00:00",
+    "first_alerted_at": "2026-11-14T14:22:49.169763+00:00"
+  },
+  "b0e8707d0293997f": {
+    "title": "Understand windows keypresses",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw0jnx/understand_windows_keypresses/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T11:49:44+00:00",
+    "first_alerted_at": "2026-11-14T14:22:50.270537+00:00"
   }
 }
