@@ -18457,5 +18457,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T21:30:30+00:00",
     "first_alerted_at": "2026-11-14T00:35:37.383327+00:00"
+  },
+  "8bf245dd01f1f6da": {
+    "title": "Is there any reason at all to run Claude outside of terminal?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvtpqe/is_there_any_reason_at_all_to_run_claude_outside/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T04:56:36+00:00",
+    "first_alerted_at": "2026-11-14T07:11:43.913109+00:00"
+  },
+  "fbe1614fafbd93c8": {
+    "title": "Terrible Claude results with Blender",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvuxuw/terrible_claude_results_with_blender/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T06:05:02+00:00",
+    "first_alerted_at": "2026-11-14T07:11:45.135451+00:00"
   }
 }
