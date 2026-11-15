@@ -18817,5 +18817,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-14T22:51:57+00:00",
     "first_alerted_at": "2026-11-14T23:12:21.790550+00:00"
+  },
+  "e5a4f60bbe91e9ec": {
+    "title": "Anybody else using Claude Cowork + Cursor?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwiy43/anybody_else_using_claude_cowork_cursor/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-15T01:29:53+00:00",
+    "first_alerted_at": "2026-11-15T02:54:18.379594+00:00"
+  },
+  "262f0307edad2451": {
+    "title": "I’m measuring how much of the Pro limit each “save tokens” trick actually saves. Which ones should I test?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwjwdp/im_measuring_how_much_of_the_pro_limit_each_save/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T02:19:21+00:00",
+    "first_alerted_at": "2026-11-15T02:54:19.437981+00:00"
+  },
+  "487c80d7bbb206ec": {
+    "title": "My MCP server just got approved for Claude's connector directory. Every wall I hit on the way, and the fix for each",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwk2en/my_mcp_server_just_got_approved_for_claudes/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T02:28:10+00:00",
+    "first_alerted_at": "2026-11-15T02:54:20.441972+00:00"
+  },
+  "0d1726c2f58252c7": {
+    "title": "Claude weekly roundup (Nov 9–15): Fable 5.2 launches, Claude joins your meetings",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwil05/claude_weekly_roundup_nov_915_fable_52_launches/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T01:10:41+00:00",
+    "first_alerted_at": "2026-11-15T02:54:21.445737+00:00"
+  },
+  "3808028c88676093": {
+    "title": "I told Claude “start the next milestone” and went to bed. It didn’t stop until morning.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwj88e/i_told_claude_start_the_next_milestone_and_went/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T01:44:24+00:00",
+    "first_alerted_at": "2026-11-15T02:54:22.468873+00:00"
+  },
+  "6cd0abbce3ad7487": {
+    "title": "Haiku low effort is fire! I asked it to make me a rap version of my dance track. It rewrote the lyrics, controlled Suno and generated visuals for next to no tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwhpsh/haiku_low_effort_is_fire_i_asked_it_to_make_me_a/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T00:27:25+00:00",
+    "first_alerted_at": "2026-11-15T02:54:23.479730+00:00"
   }
 }
