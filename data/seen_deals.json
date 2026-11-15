@@ -18898,5 +18898,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-15T04:36:59+00:00",
     "first_alerted_at": "2026-11-15T10:09:12.484666+00:00"
+  },
+  "1bc764fcfda4b666": {
+    "title": "Trying Omnicode",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwxi9q/trying_omnicode/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-15T14:56:49+00:00",
+    "first_alerted_at": "2026-11-15T17:18:44.561865+00:00"
+  },
+  "4911edde9283dd52": {
+    "title": "I asked Fable 5.2 to mash up Balatro and Diablo II. Things got out of hand.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwzel1/i_asked_fable_52_to_mash_up_balatro_and_diablo_ii/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-15T16:14:58+00:00",
+    "first_alerted_at": "2026-11-15T17:18:45.806660+00:00"
+  },
+  "d589c321faa307f0": {
+    "title": "Quitting Cursor, but where do you migrate to?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx0pno/quitting_cursor_but_where_do_you_migrate_to/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T17:05:39+00:00",
+    "first_alerted_at": "2026-11-15T17:18:47.043360+00:00"
+  },
+  "17768c41413602ce": {
+    "title": "One game without AI ($50k, a studio) and one with Claude Code ($700). It’s been… fun :)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwzqi2/one_game_without_ai_50k_a_studio_and_one_with/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T16:27:42+00:00",
+    "first_alerted_at": "2026-11-15T17:18:48.249749+00:00"
+  },
+  "a37e73da3ecfd248": {
+    "title": "I built a free DAW with Claude Code, then had Claude write and mix a song in it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx0egb/i_built_a_free_daw_with_claude_code_then_had/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T16:53:56+00:00",
+    "first_alerted_at": "2026-11-15T17:18:49.642023+00:00"
+  },
+  "5904b96573d9a4f8": {
+    "title": "18% of my Claude Code usage went to re-sending conversations whose prompt cache had expired. Free tool to see your own number and stop it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwxop4/18_of_my_claude_code_usage_went_to_resending/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T15:04:00+00:00",
+    "first_alerted_at": "2026-11-15T17:18:50.982952+00:00"
+  },
+  "78ad6beedaccb0c0": {
+    "title": "I built a tool with Claude Code that replays Claude Code sessions on a 3D map of your repo",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwwtv5/i_built_a_tool_with_claude_code_that_replays/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T14:27:26+00:00",
+    "first_alerted_at": "2026-11-15T17:18:52.158673+00:00"
+  },
+  "3ad7d895d24e0b17": {
+    "title": "Is Claude’s voice input just bad or am I using it wrong?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwwq48/is_claudes_voice_input_just_bad_or_am_i_using_it/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T14:23:05+00:00",
+    "first_alerted_at": "2026-11-15T17:18:53.419123+00:00"
+  },
+  "08b5c3f39b5f6355": {
+    "title": "First timer making a game, need advice on QA Audits that are destroying my tokens and don't provide particularly great results",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwypbt/first_timer_making_a_game_need_advice_on_qa/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T15:46:24+00:00",
+    "first_alerted_at": "2026-11-15T17:18:54.629412+00:00"
+  },
+  "19deee5ce966e019": {
+    "title": "I finally want to get into AI/agents/RAGs etc. Where do I start?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwy7i9/i_finally_want_to_get_into_aiagentsrags_etc_where/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T15:25:47+00:00",
+    "first_alerted_at": "2026-11-15T17:18:56.004772+00:00"
   }
 }
