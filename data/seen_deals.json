@@ -18988,5 +18988,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-15T15:25:47+00:00",
     "first_alerted_at": "2026-11-15T17:18:56.004772+00:00"
+  },
+  "e7048edc779f2ef8": {
+    "title": "OpenAI Gives Pro and Business Subscribers Free API Credits Worth Up to $500 a Month - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KR1dScXJMdVVQMlowZjh4T19BeFJkX1Z2WC1lc241Nk5rZkZnZTZYZlA4TVpIOUZQdGg1WFdWQU5tSlRET2p0OGQ2Uy1GNG8welhfUnFoMHF1cC1rQVFaZUhTREh1ZWp4UFI1Wld5cm8tRmRUbnc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T08:25:00+00:00",
+    "first_alerted_at": "2026-11-15T21:55:58.904513+00:00"
+  },
+  "d7bbc1a6349d07bc": {
+    "title": "Great use of tokens on a pull request",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx7162/great_use_of_tokens_on_a_pull_request/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T21:17:33+00:00",
+    "first_alerted_at": "2026-11-15T21:55:59.865854+00:00"
+  },
+  "7626b56a7e2b8fba": {
+    "title": "Wintainium: an Obtainium-style app manager for Windows (install, track and update emulators, PC ports, mods and tools) built with Claude: PowerShell + WPF, ~1,300 lines",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx6krl/wintainium_an_obtainiumstyle_app_manager_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T20:58:24+00:00",
+    "first_alerted_at": "2026-11-15T21:56:00.851302+00:00"
+  },
+  "e6691d0e7648849b": {
+    "title": "Claude Desktop (Code tab) vs CLI in VS Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx5in1/claude_desktop_code_tab_vs_cli_in_vs_code/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T20:14:42+00:00",
+    "first_alerted_at": "2026-11-15T21:56:01.819186+00:00"
   }
 }
