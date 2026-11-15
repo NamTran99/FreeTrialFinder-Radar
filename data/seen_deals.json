@@ -18871,5 +18871,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-15T00:27:25+00:00",
     "first_alerted_at": "2026-11-15T02:54:23.479730+00:00"
+  },
+  "cc4cde038f41260a": {
+    "title": "310M Claude tokens later: why I won't claim a precise subscription-vs-API savings multiple",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwp2d1/310m_claude_tokens_later_why_i_wont_claim_a/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-15T07:07:16+00:00",
+    "first_alerted_at": "2026-11-15T10:09:10.321358+00:00"
+  },
+  "166a141b137fdf11": {
+    "title": "What Claude Code plugins actually save tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwo8r1/what_claude_code_plugins_actually_save_tokens/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T06:17:57+00:00",
+    "first_alerted_at": "2026-11-15T10:09:11.474799+00:00"
+  },
+  "69ae318849af337a": {
+    "title": "Anthropic, can you please make up your mind with your models?",
+    "url": "https://news.ycombinator.com/item?id=50504061",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T04:36:59+00:00",
+    "first_alerted_at": "2026-11-15T10:09:12.484666+00:00"
   }
 }
