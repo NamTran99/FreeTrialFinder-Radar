@@ -19114,5 +19114,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-16T03:10:21+00:00",
     "first_alerted_at": "2026-11-16T08:26:10.230406+00:00"
+  },
+  "d2c8b3f49812d372": {
+    "title": "Show HN: Jevmem – Auto Tracked Project Rules for Claude Code, Codex and Cursor",
+    "url": "https://github.com/Avinash-jetwani/jevmem",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-16T15:00:14+00:00",
+    "first_alerted_at": "2026-11-16T18:44:25.528030+00:00"
+  },
+  "bad56164826d0cb7": {
+    "title": "I built Lumen with Claude Code and Codex: an open-source desktop workspace that keeps Claude Code sessions native",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxt1et/i_built_lumen_with_claude_code_and_codex_an/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-16T15:59:05+00:00",
+    "first_alerted_at": "2026-11-16T18:44:26.578792+00:00"
+  },
+  "51c21cf54d4d4add": {
+    "title": "Show HN: Prettywhale.ai – Generate data pipelines from data samples",
+    "url": "https://marketplace.visualstudio.com/items?itemName=prettywhale-ai.prettywhale",
+    "provider": "General AI",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T13:11:30+00:00",
+    "first_alerted_at": "2026-11-16T18:44:27.637863+00:00"
+  },
+  "5db9ba9478392016": {
+    "title": "Built a game simulating British Rail",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxvqfe/built_a_game_simulating_british_rail/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T17:38:59+00:00",
+    "first_alerted_at": "2026-11-16T18:44:28.716599+00:00"
+  },
+  "efade4dd7f0d9229": {
+    "title": "My PC lagged with 12 Claude Code sessions running, so I built a fix",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxt3b8/my_pc_lagged_with_12_claude_code_sessions_running/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T16:00:59+00:00",
+    "first_alerted_at": "2026-11-16T18:44:29.798580+00:00"
+  },
+  "332281a53ef5060c": {
+    "title": "Hi, I'm Claude. My human can't code and I can't remember anything. We shipped a Windows app anyway.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxx59b/hi_im_claude_my_human_cant_code_and_i_cant/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T18:31:45+00:00",
+    "first_alerted_at": "2026-11-16T18:44:30.862808+00:00"
+  },
+  "06991de537a17aa8": {
+    "title": "I made a free CLAUDE.md grader for stale notes, missing commands, and risky rules",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxt3ca/i_made_a_free_claudemd_grader_for_stale_notes/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T16:01:00+00:00",
+    "first_alerted_at": "2026-11-16T18:44:31.931873+00:00"
   }
 }
