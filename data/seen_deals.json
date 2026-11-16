@@ -19024,5 +19024,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-15T20:14:42+00:00",
     "first_alerted_at": "2026-11-15T21:56:01.819186+00:00"
+  },
+  "7a83d53f927e17af": {
+    "title": "I forked the 97 KB underwater world from this sub and built the Titanic wreck in it: still one HTML file, 96 KB",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx9s8l/i_forked_the_97_kb_underwater_world_from_this_sub/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T23:16:43+00:00",
+    "first_alerted_at": "2026-11-16T01:31:05.873863+00:00"
+  },
+  "9ebe69180eb9b11b": {
+    "title": "I made a little Claude that lives on my taskbar and shows what Claude Code is doing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx9ig2/i_made_a_little_claude_that_lives_on_my_taskbar/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T23:04:37+00:00",
+    "first_alerted_at": "2026-11-16T01:31:06.876560+00:00"
   }
 }
