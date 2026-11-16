@@ -19042,5 +19042,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-15T23:04:37+00:00",
     "first_alerted_at": "2026-11-16T01:31:06.876560+00:00"
+  },
+  "115c40df9cd484b9": {
+    "title": "16 weeks of making game with Claude Opus in Godot",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxio78/16_weeks_of_making_game_with_claude_opus_in_godot/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-16T06:54:18+00:00",
+    "first_alerted_at": "2026-11-16T08:26:02.227764+00:00"
+  },
+  "93c3984e6dee54ff": {
+    "title": "I built open-source skills to share project memory and coordinate work across Claude, Codex, Gemini, and Grok",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxk2ke/i_built_opensource_skills_to_share_project_memory/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T08:21:45+00:00",
+    "first_alerted_at": "2026-11-16T08:26:03.367165+00:00"
+  },
+  "a664cb44606528dc": {
+    "title": "Are those \"free 1B Claude tokens Github repo\" just gimmick?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxjzrb/are_those_free_1b_claude_tokens_github_repo_just/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T08:16:33+00:00",
+    "first_alerted_at": "2026-11-16T08:26:04.493547+00:00"
+  },
+  "7aedf74c12c3cadb": {
+    "title": "Anthropic published a guide on building always-on agents (Nov 13). It breaks them into 5 parts: inbox, timers, memory, permissions, outbox",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxdzcf/anthropic_published_a_guide_on_building_alwayson/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T02:35:56+00:00",
+    "first_alerted_at": "2026-11-16T08:26:05.643121+00:00"
+  },
+  "298c4ff33b57ff60": {
+    "title": "Title: Has anyone here built a coding harness / AI coding agent like Claude Code or OpenAI Codex? Looking for advice.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxiq0l/title_has_anyone_here_built_a_coding_harness_ai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T06:57:29+00:00",
+    "first_alerted_at": "2026-11-16T08:26:06.761742+00:00"
+  },
+  "a40a275bb285831b": {
+    "title": "Korea Startup Forum Partners with Anthropic to Offer Claude Credits - Seoul Economic Daily",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV19hSmtuVDVzR1RIRWhtX3ZXcUQwVXhVU2NwakhPa0dCRm9vWEZYN1Z1ejRMYy10S2dfbjFtekx1bzBQUU4yLTQza3liMkVOanZYOEdEcFZVZ1dCcGc5d2xkVGRUNW40ZDllMDV1ZExsTHBWNE9kLWxHSzRjRHFTZkRDWFlyXzhsOVlYN3RnV1ZabTlxRV9xdTZRYzlUbVVoRlZYTg?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-12T07:00:00+00:00",
+    "first_alerted_at": "2026-11-16T08:26:07.967589+00:00"
+  },
+  "9535d4926268ce19": {
+    "title": "Opus 5.5 Nerf isn't that simple",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxicrh/opus_55_nerf_isnt_that_simple/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T06:34:25+00:00",
+    "first_alerted_at": "2026-11-16T08:26:09.096658+00:00"
+  },
+  "59e6fe8b2f82c4fa": {
+    "title": "Token usage help",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxentr/token_usage_help/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T03:10:21+00:00",
+    "first_alerted_at": "2026-11-16T08:26:10.230406+00:00"
   }
 }
