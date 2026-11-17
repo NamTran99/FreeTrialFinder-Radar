@@ -19240,5 +19240,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-16T22:15:21+00:00",
     "first_alerted_at": "2026-11-17T02:13:20.620598+00:00"
+  },
+  "df986fd52ea31f3f": {
+    "title": "I built a Mac app where Claude leads a team of different AIs — Codex, Gemini, Cursor — and they check each other's work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xyg0ed/i_built_a_mac_app_where_claude_leads_a_team_of/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T09:24:15+00:00",
+    "first_alerted_at": "2026-11-17T10:54:30.257807+00:00"
+  },
+  "9d4ac9bb081563a1": {
+    "title": "Monthly API credits arrive on Claude plans with doubts about their scope - Foro3D",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWdrSVVpdnJlZS1QZkV2YVJfenJhMG5HMHJweWJ0Um4tdVpRUjFORVU1cXdKT2NtNGJJWVpMRDBtdTBJdV9JRXhtMTEyZk1oUEFsT25zVkFQSS1YalhoVGZJRGtBZVhIek81eDdVZ0VhLS02WDdMRTBDcy1jbVNvRWJBUktGNVFSdi1TQ2xiY2Rac2RZNHRZZ2xEZ01fNEhGbHhZLXdBUzd4STFGSG93ZmhR?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T22:45:35+00:00",
+    "first_alerted_at": "2026-11-17T10:54:31.501024+00:00"
+  },
+  "578048e1b2adefd5": {
+    "title": "I vibecoded Lumen Voice with Claude & grok a free iPhone and Apple Watch app for talking to your own AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xyhc2u/i_vibecoded_lumen_voice_with_claude_grok_a_free/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T10:45:51+00:00",
+    "first_alerted_at": "2026-11-17T10:54:32.729051+00:00"
+  },
+  "954f15900aba7335": {
+    "title": "Claude Code Course: Credits Included",
+    "url": "https://news.ycombinator.com/item?id=50528300",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T06:55:15+00:00",
+    "first_alerted_at": "2026-11-17T10:54:33.942453+00:00"
+  },
+  "aaf449bfaa917546": {
+    "title": "Show HN: Wake, see what Claude Code did and where the tokens went",
+    "url": "https://rcruz.dev/wake/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T10:41:09+00:00",
+    "first_alerted_at": "2026-11-17T10:54:35.116686+00:00"
+  },
+  "723908292fc75847": {
+    "title": "Lantern: a free, open-source desktop app that maps your repo for Claude Code and reviews the PRs it writes",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xyfb2z/lantern_a_free_opensource_desktop_app_that_maps/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T08:39:12+00:00",
+    "first_alerted_at": "2026-11-17T10:54:36.318792+00:00"
+  },
+  "d50808404656a9a7": {
+    "title": "Context management - How does it work across Code Local / Code Cloud / Chat Local? Confusing to just me? It seems like a mess.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xyeoqw/context_management_how_does_it_work_across_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T07:59:35+00:00",
+    "first_alerted_at": "2026-11-17T10:54:37.515795+00:00"
+  },
+  "0a4ffc14bbc8909d": {
+    "title": "Anthropic did me dirty here.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xygoez/anthropic_did_me_dirty_here/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T10:06:03+00:00",
+    "first_alerted_at": "2026-11-17T10:54:38.825218+00:00"
+  },
+  "472249562c88348a": {
+    "title": "Claude Fable 5.2 Changed the Rules. 1,280 Updates Just Broke Your Defaults.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xyf039/claude_fable_52_changed_the_rules_1280_updates/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T08:19:36+00:00",
+    "first_alerted_at": "2026-11-17T10:54:40.074786+00:00"
+  },
+  "3391c2c4346419f1": {
+    "title": "Is there a way to make gemini talk or answer the way Claude answers? (Student on a tight budget)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xyedh1/is_there_a_way_to_make_gemini_talk_or_answer_the/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T07:39:07+00:00",
+    "first_alerted_at": "2026-11-17T10:54:41.282338+00:00"
   }
 }
