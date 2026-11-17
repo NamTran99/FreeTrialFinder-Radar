@@ -19330,5 +19330,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-17T07:39:07+00:00",
     "first_alerted_at": "2026-11-17T10:54:41.282338+00:00"
+  },
+  "201b6e0a1e3672e4": {
+    "title": "Show HN: Crosshead - Working memory and persistent identity for agents",
+    "url": "https://crosshead.sh/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T16:36:50+00:00",
+    "first_alerted_at": "2026-11-17T19:29:20.744223+00:00"
+  },
+  "9abd4baefe2a62e9": {
+    "title": "Your ChatGPT plan quietly comes with API credits, and most people are letting them expire - XDA",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjgyUG0xRzVFSUQ4S2dBaGdZNXlQMTB5a0lFU09uVjNtVk9pZHpCZTFhcUpOMm5aYldQeWNhdUtfTnNSa0llQlRkcjBPd2YyMmtBcE1ORGFjWm0xMDRVLWM4cmlLNklINF9uUjRXRDZ4TEV2UFJtd2d1MTQwOTBzQ0lYeFQ4enJ2SWV3UjJMYzNnWWdqR04zcVVZSUxXUVY5SFZDd2hWbw?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T19:00:24+00:00",
+    "first_alerted_at": "2026-11-17T19:29:21.786167+00:00"
+  },
+  "311f1e1356a22d6c": {
+    "title": "OpenAI Academy to Support AI Development in Low and Middle-Income Countries with $1 Million in API Credits - CEOWORLD magazine",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcjlfQ3RiVXZaUnZtem9tRkxMVWJHZ014OXhpcjVzQ0pSQnZpdUxBbEZ2bnlwNlBOcDIySElwMXpuYm8yUGtYR2R6aVZoVTlRdmhJcVRMRURYbFBtRWcwRFlRaU0teHhlSmNXWTZxUHpaOUotejZUWk9lRUVsOW96c2FyWW4waU1INnI4NUhxTzZOUWthZGdLd0I4Wjl6d09KTG0tRkFzNEloeFZzRWVlcmNPSWhablVOUDBybnQyV25oSm9WZmlYRU54Mk5pYXdWaWdDaA?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2024-09-25T07:00:00+00:00",
+    "first_alerted_at": "2026-11-17T19:29:22.830577+00:00"
+  },
+  "e7d4e585bb904028": {
+    "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage",
+    "url": "https://news.ycombinator.com/item?id=50535157",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T17:42:22+00:00",
+    "first_alerted_at": "2026-11-17T19:29:23.845249+00:00"
+  },
+  "7101998f01565ef3": {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T19:01:43+00:00",
+    "first_alerted_at": "2026-11-17T19:29:24.868565+00:00"
   }
 }
