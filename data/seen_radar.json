@@ -310,5 +310,11 @@
     "source": "NodeSeek",
     "score": 100,
     "discovered_at": "2026-11-17T19:29:27.437572+00:00"
+  },
+  "https://www.v2ex.com/t/1258134": {
+    "title": "Nginx http2 漏洞结合内核漏洞可实现 root 远程代码执行",
+    "source": "V2EX Latest (0💬)",
+    "score": 85,
+    "discovered_at": "2026-11-18T18:18:51.660997+00:00"
   }
 }

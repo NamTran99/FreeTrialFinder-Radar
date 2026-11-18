@@ -19375,5 +19375,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-17T19:01:43+00:00",
     "first_alerted_at": "2026-11-17T19:29:24.868565+00:00"
+  },
+  "5b7aa0bb5c01f6cb": {
+    "title": "Show HN: Klistra – A complete studio for spec-driven AI motion design and video",
+    "url": "https://klistra.ai/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-18T16:58:53+00:00",
+    "first_alerted_at": "2026-11-18T18:18:45.546841+00:00"
+  },
+  "5c814c91128b7ef3": {
+    "title": "ChatGPT Pricing, Plans, API and Business Seats - Meteora Web",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXVmYkVNTDdtTWRBeXh5TDJVSEtiejVoVGp1bC16OGd4T0lGNVFXM2lCMVZHazJCakFOcDZEU1RMT3dRWG5oMjFITmtxVVFUaVlFdXNVTmQ0QXN5YlRaSFdiV2ZPSUpaOS0wamVQMEhWWThHNHN2dmpNTzZrVG1GZTRXLUFWNnFZMHJ3eV9hbzY4QlB1Z01uQ2d4SzIxMnJvYUdmVUZxRFJxNWo3V2NXZWhYd2dLOC1EOWktTW9kVzZFNW8?oc=5",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-18T10:12:49+00:00",
+    "first_alerted_at": "2026-11-18T18:18:46.516150+00:00"
+  },
+  "26f3860d4cc7bac8": {
+    "title": "Show HN: Terminess, a harness that runs the official Claude Code and Codex CLIs",
+    "url": "https://github.com/Terminess/terminess",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-18T15:09:12+00:00",
+    "first_alerted_at": "2026-11-18T18:18:47.535080+00:00"
+  },
+  "f29386daf5a72784": {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://news.ycombinator.com/item?id=50536468",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T19:01:43+00:00",
+    "first_alerted_at": "2026-11-18T18:18:48.541533+00:00"
   }
 }
