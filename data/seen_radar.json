@@ -316,5 +316,17 @@
     "source": "V2EX Latest (0💬)",
     "score": 85,
     "discovered_at": "2026-11-18T18:18:51.660997+00:00"
+  },
+  "https://www.nodeseek.com/post-1064523-1": {
+    "title": "【漏洞】Nginx 多个远程代码执行",
+    "source": "NodeSeek",
+    "score": 85,
+    "discovered_at": "2026-11-19T00:36:42.995356+00:00"
+  },
+  "https://www.nodeseek.com/post-1064514-1": {
+    "title": "Nginx 漏洞 留档",
+    "source": "NodeSeek",
+    "score": 85,
+    "discovered_at": "2026-11-19T00:36:42.995387+00:00"
   }
 }
