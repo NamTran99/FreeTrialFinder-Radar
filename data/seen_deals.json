@@ -19447,5 +19447,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-28T07:00:00+00:00",
     "first_alerted_at": "2026-11-20T13:43:56.116600+00:00"
+  },
+  "cc07ec79576d886c": {
+    "title": "Sea and OpenAI bring Regional Codex Hackathon to Malaysia with over RM200K in API credits up for grabs - Newswav",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmthdTJ0a0N5QS1XM3RmX0VUR2lpZU92T0dhSXBUSElaX2xkQ0FfUW1TTDJJbEtjdTBEQXRjTTZNR1dRYm05S015UWxUV1cxbC1SN1JMeEdWV2p5QUpKSkxJZzVtdE53QXhvVzZPX0k4LXdCeFdNNFVmS0V4dzRwR29NZzJ2Mm1BVFJ2UHIyS0xTUWF2MjB5X29fRnozTnIzLS1QQVNzbFFqdzVYVDdFTFBTV0Y1dw?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T07:00:00+00:00",
+    "first_alerted_at": "2026-11-20T21:37:32.369927+00:00"
+  },
+  "83cae1c593bca2ba": {
+    "title": "Anthropic Rare Disease Grants: $50K Credits, Aug 2 Deadline - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEhIdk1mTFBMbEVmNXhNWG80UnkxT2xDUkwwREZpdFJnZEYwZ0pvcjhxNzhITGRJMWhxUERoLUo1X2l0RWF0Y2ZjNWdVQmd5aVFYUTB0OFMyZEFUVXdGSkluR3FXcDczLUdhNWQzdkozUnVSU0RnWmhKY2hWZFozVzdn?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-21T07:00:00+00:00",
+    "first_alerted_at": "2026-11-20T21:37:33.579209+00:00"
   }
 }

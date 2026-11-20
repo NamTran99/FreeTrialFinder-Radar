@@ -352,5 +352,17 @@
     "source": "GitHub Repo (⭐1)",
     "score": 85,
     "discovered_at": "2026-11-20T13:43:59.016263+00:00"
+  },
+  "https://www.v2ex.com/t/1258664": {
+    "title": "CVE-2026-128064 这个漏洞我也震惊了，通过判断 http(s) 第 5 五位是否小写 s 来启用 tls，存在 20 年了。",
+    "source": "V2EX Latest (4💬)",
+    "score": 85,
+    "discovered_at": "2026-11-20T21:37:35.846702+00:00"
+  },
+  "https://www.v2ex.com/t/1258663": {
+    "title": "[紧急提醒] 群晖 DSM 出现 9.8 分严重漏洞 无需登录即可远程读写 NAS 中的文件.",
+    "source": "V2EX Latest (1💬)",
+    "score": 85,
+    "discovered_at": "2026-11-20T21:37:35.846733+00:00"
   }
 }
