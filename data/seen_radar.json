@@ -346,5 +346,11 @@
     "source": "NodeSeek",
     "score": 85,
     "discovered_at": "2026-11-20T04:51:16.311892+00:00"
+  },
+  "https://github.com/wahkawakah1145/xiaobenben": {
+    "title": "wahkawakah1145/xiaobenben: 半自动记账软件. 通过读取理解通知实现半自动记账. 使用 google gemini 4 hydrogen 免费额度 vibe 出来的 ai slop ( 或许可以将就用, 不算slop?",
+    "source": "GitHub Repo (⭐1)",
+    "score": 85,
+    "discovered_at": "2026-11-20T13:43:59.016263+00:00"
   }
 }
