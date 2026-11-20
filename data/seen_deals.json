@@ -19411,5 +19411,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-17T19:01:43+00:00",
     "first_alerted_at": "2026-11-18T18:18:48.541533+00:00"
+  },
+  "5024e187abc012fb": {
+    "title": "ChatGPT Pro and Business Now Include Up to $500 a Month in Free API Credits - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTRGOUhsdVdqMmFmM3RPQUJORTU5NGlGcElnUFRETjVMVjhhNG92bW05SXFsS2VuVEhuSnlxZHdyVUlvTmp6VnBlMmhiOUlObThFMWNWUkcxQ2RWM2U1RFdhMGJVejZ6XzE1RGxkVFQtdjFaeVQtRDdfVW1DSk8yVWJ4VElSeXpweWxFaUR1dHR4SEdoSVg3SncyeXhubWJydjMtOU1mNklQelQxQWc0?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T07:00:00+00:00",
+    "first_alerted_at": "2026-11-20T04:51:13.988724+00:00"
   }
 }
