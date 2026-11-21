@@ -364,5 +364,23 @@
     "source": "V2EX Latest (1💬)",
     "score": 85,
     "discovered_at": "2026-11-20T21:37:35.846733+00:00"
+  },
+  "https://www.v2ex.com/t/1258730": {
+    "title": "[AIask]周末发点鸡蛋，回复 id 就发。Claude opus 5.5 限时 5 天打一折，输入 $0.4/M，输出：$2/M",
+    "source": "V2EX Latest (13💬)",
+    "score": 100,
+    "discovered_at": "2026-11-21T10:26:43.336099+00:00"
+  },
+  "https://github.com/yaoyao-chat/gptimage": {
+    "title": "yaoyao-chat/gptimage: GPT Image（2026-11）：ChatGPT 生图怎么用、免费额度官方怎么写、Plus 多了什么、报错和拒画原因；生图不够用可在瑶瑶ai训练师商城开 Plus ¥129（店主自营）",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-21T10:26:43.336451+00:00"
+  },
+  "https://github.com/Likhixang/cpa-freetier2api-plugin": {
+    "title": "Likhixang/cpa-freetier2api-plugin: CLIProxyAPI 的 FreeTier 2API 插件，将多个免费额度 AI 供应商接入 CLIProxyAPI 原生动态库。",
+    "source": "GitHub Repo (⭐6)",
+    "score": 85,
+    "discovered_at": "2026-11-21T10:26:43.336497+00:00"
   }
 }
