@@ -19861,5 +19861,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-22T17:59:14.921392+00:00",
     "first_alerted_at": "2026-11-22T18:00:08.705107+00:00"
+  },
+  "2c07ba209574cc5b": {
+    "title": "<a href=\"https://freellm.net/models/nvidia-nim/moonshotai-kimi-k3-1-pro/\" target=\"_blank\" rel=\"noopener\">moonshotai/kimi-k3.1-pro</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/moonshotai-kimi-k3-1-pro/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T13:51:16.198418+00:00",
+    "first_alerted_at": "2026-11-23T13:51:20.626712+00:00"
+  },
+  "ac64ca39cb92dd60": {
+    "title": "AI Grants, Hackathons, and API Credits: Engineering Opportunities and Security Hardening Guide + Video - Howl.Link",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9UZk9OR3NSdUlzSU41VkVDZXUwR2FGc29OemJTckZTMDk1S1NyUWl3WnJPY2VVUmttdnBJ?oc=5",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T03:29:57+00:00",
+    "first_alerted_at": "2026-11-23T13:51:21.703200+00:00"
+  },
+  "9e886f5cf8288c0e": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/moonshotai-kimi-k3-1-pro/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T13:51:16.196124+00:00",
+    "first_alerted_at": "2026-11-23T13:51:22.778809+00:00"
+  },
+  "3b1bfaa8107e4689": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/%40cf%2Fdeepseek-ai%2Fdeepseek-v4.1-flash-1017/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T13:51:16.196392+00:00",
+    "first_alerted_at": "2026-11-23T13:51:23.807761+00:00"
+  },
+  "01cecf0844a31e0c": {
+    "title": "Perch AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/perch-ai/perch-ai-deepseek-v4-1-flash-1017/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T13:51:16.197710+00:00",
+    "first_alerted_at": "2026-11-23T13:51:24.817791+00:00"
+  },
+  "703e65a1277e4e60": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/perch-ai/perch-ai-glm-5-3-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T13:51:16.197739+00:00",
+    "first_alerted_at": "2026-11-23T13:51:25.820076+00:00"
+  },
+  "a2721485c0d9be3a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/perch-ai/perch-ai-crouton-alpha/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-23T13:51:16.197767+00:00",
+    "first_alerted_at": "2026-11-23T13:51:26.827407+00:00"
+  },
+  "5b151b11ad37ef9d": {
+    "title": "Anthropic offers Indian startups up to $7,000 in Claude credits - ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeHFCTlJ4ZXpqdDdLenVqQm91NEhCSHpyOVhhOVpRQTJYeUVBSHdHWDBJQ29rQi1oVW1BaXNGM2FTcU50b2QtZU9mRHU0YmlacDZKaWtYWU9JU3EyNElQZlYySDBBVG9iV1drZEdwQnRwOVJmRkVFTVpKS2NmNjFrQ2VhWmZpaWJGVENZeEh3VGtLN3JEdGNjUGFheGs0bk5KcjRmMmFid0dzT3laLXg3aGRGSFVoNTdyTnM2VVc5SDEyRFBueHdNZ9IBzAFBVV95cUxOV1NpVWh4ME1RbS12UzZobUlmNzl4LUREajJRQUI3d2hsX041WWM5VTNXMXFWYlBqNkRhX2RiRDdlT0lvdWlRdmYxRnpfRlRFTjRBMm13NUk0alI1Ulcxa1NZTEIxZ0hLVl93VU9jd2d4dDU0Zy1CRWtYUUp2MUFvNWxoX21pdmxqRElDcXR2MEt3bTlaWklkUUZMNGMwdkpBcHk5alp6a1k1OXpNcF9ka1RfTkJkdHNqMjFoUjBYZzlxSnBDTUtuTEdmNFM?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T07:00:00+00:00",
+    "first_alerted_at": "2026-11-23T13:51:27.838491+00:00"
   }
 }
