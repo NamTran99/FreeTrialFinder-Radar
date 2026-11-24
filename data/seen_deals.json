@@ -19933,5 +19933,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-08T07:00:00+00:00",
     "first_alerted_at": "2026-11-23T13:51:27.838491+00:00"
+  },
+  "d72050f3874b63ce": {
+    "title": "Anthropic offers Indian startups up to $7,000 in Claude credits - ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd2Fnd3NCZDVWOTVHaF9ldjdUOFluQWx5RWJMOXRFbWhUME1HOU9LQXJuYWRkTGx6eF9PVmdULWJIUUZib01aUEhhOWFndUdKSW1Ya2djVTR2NXRCRk9zMy1HLTZ2aUlkS2xJUmFSNTVNaGhXUG1odXdVYVB4bW1vTHFQUXpWU2NLN2hWVTBfVEs3WEtKTHBjckRxNUZPcFN6c1duOGZ3YzFNTy12T0lGVmVReEZ1cUt6bG1qQUpscW05amcteHEw0gHMAUFVX3lxTE5XU2lVaHgwTVFtLXZTNmhtSWY3OXgtRERqMlFBQjd3aGxfTjVZYzlVM1cxcVZiUGo2RGFfZGJEN2VPSW91aVF2ZjFGel9GVEVONEEybXc1STRqUjVSVzFrU1lMQjFnSEtWX3dVT2N3Z3h0NTRnLUJFa1hRSnYxQW81bGhfbWl2bGpESUNxdHYwS3dtOVpaSWRRRkw0YzB2SkFweTlqWnprWTU5ek1wX2RrVF9OQmR0c2oyMWhSMFhnOXFKcENNS25MR2Y0Uw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T07:00:00+00:00",
+    "first_alerted_at": "2026-11-24T01:22:48.926744+00:00"
   }
 }
