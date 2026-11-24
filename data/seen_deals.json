@@ -19942,5 +19942,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-08T07:00:00+00:00",
     "first_alerted_at": "2026-11-24T01:22:48.926744+00:00"
+  },
+  "a328b7c17a4953ad": {
+    "title": "Show HN: Aisma – edit footage you shot from a text brief, via REST API or MCP",
+    "url": "https://aisma.ai/developers",
+    "provider": "OpenAI",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-24T13:07:11+00:00",
+    "first_alerted_at": "2026-11-24T21:25:12.799678+00:00"
+  },
+  "a9150f8ae76b04c0": {
+    "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+    "url": "https://news.ycombinator.com/item?id=50633601",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T19:51:01+00:00",
+    "first_alerted_at": "2026-11-24T21:25:13.910571+00:00"
+  },
+  "2eb76f8232808c80": {
+    "title": "Kilo Code Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/dots-studio-dots-3-note-preview-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T21:25:07.036068+00:00",
+    "first_alerted_at": "2026-11-24T21:25:15.032983+00:00"
+  },
+  "638bba81401c1e74": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/xingchen-agi-xing4-0-29b-a4b-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T21:25:07.036092+00:00",
+    "first_alerted_at": "2026-11-24T21:25:16.157032+00:00"
+  },
+  "24553ab5d43b7daf": {
+    "title": "Perch AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/perch-ai/perch-ai-crouton-alpha/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T21:25:07.036529+00:00",
+    "first_alerted_at": "2026-11-24T21:25:17.267156+00:00"
+  },
+  "2ada41c407ec50aa": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/perch-ai/perch-ai-deepseek-v4-1-flash-1017/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T21:25:07.036543+00:00",
+    "first_alerted_at": "2026-11-24T21:25:18.390700+00:00"
   }
 }
