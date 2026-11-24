@@ -448,5 +448,11 @@
     "source": "GitHub Repo (⭐236)",
     "score": 85,
     "discovered_at": "2026-11-24T01:22:50.653102+00:00"
+  },
+  "https://github.com/swsgbl/omnifusion": {
+    "title": "swsgbl/omnifusion: BYOK-first AI gateway in one Go binary: free-tier LLM providers behind local OpenAI/Anthropic/Gemini/Responses",
+    "source": "GitHub Repo (⭐0)",
+    "score": 85,
+    "discovered_at": "2026-11-24T11:14:27.166456+00:00"
   }
 }
