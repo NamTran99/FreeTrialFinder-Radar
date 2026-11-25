@@ -20005,5 +20005,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-24T22:05:34+00:00",
     "first_alerted_at": "2026-11-25T04:24:13.885605+00:00"
+  },
+  "aa8dfbb6a0339dfd": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-embedding-001/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T14:43:18.229643+00:00",
+    "first_alerted_at": "2026-11-25T14:43:22.872181+00:00"
+  },
+  "22ae578d3870d0c7": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-embedding-2/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T14:43:18.229662+00:00",
+    "first_alerted_at": "2026-11-25T14:43:24.087157+00:00"
+  },
+  "c4ad063f68ae7804": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-4-hydrogen/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T14:43:18.229679+00:00",
+    "first_alerted_at": "2026-11-25T14:43:25.255470+00:00"
+  },
+  "d5ae05866a6b58e7": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/openai%2Fgpt-oss-safeguard-20b/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T14:43:18.229865+00:00",
+    "first_alerted_at": "2026-11-25T14:43:26.421944+00:00"
+  },
+  "f163c54f278f6b2b": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/openai%2Fgpt-oss-20b/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T14:43:18.229884+00:00",
+    "first_alerted_at": "2026-11-25T14:43:27.572288+00:00"
+  },
+  "1a788a9b744588cd": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/openai%2Fgpt-oss-120b/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T14:43:18.229901+00:00",
+    "first_alerted_at": "2026-11-25T14:43:28.729345+00:00"
+  },
+  "f59f4a1b888111bb": {
+    "title": "Show HN: Longyan, a Chinese popup dictionary that picks meanings from context",
+    "url": "https://longyan.app/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T13:39:14+00:00",
+    "first_alerted_at": "2026-11-25T14:43:29.869557+00:00"
   }
 }
