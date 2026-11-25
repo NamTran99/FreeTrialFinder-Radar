@@ -20068,5 +20068,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-25T13:39:14+00:00",
     "first_alerted_at": "2026-11-25T14:43:29.869557+00:00"
+  },
+  "5a731eb9d970ade4": {
+    "title": "Show HN: HeyCube – The personalized feed for your always-on AI agents",
+    "url": "https://inxpanse.com/heycube",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T19:47:37+00:00",
+    "first_alerted_at": "2026-11-25T23:25:51.818180+00:00"
   }
 }
