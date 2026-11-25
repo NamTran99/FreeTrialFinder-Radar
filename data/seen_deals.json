@@ -19996,5 +19996,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-24T21:25:07.036543+00:00",
     "first_alerted_at": "2026-11-24T21:25:18.390700+00:00"
+  },
+  "ad6a5764295989f2": {
+    "title": "Four C/C++ libraries ported to pure managed .NET on a $20 plan",
+    "url": "https://news.ycombinator.com/item?id=50635452",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T22:05:34+00:00",
+    "first_alerted_at": "2026-11-25T04:24:13.885605+00:00"
   }
 }
