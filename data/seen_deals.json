@@ -20086,5 +20086,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-11T07:00:00+00:00",
     "first_alerted_at": "2026-11-26T05:15:34.104065+00:00"
+  },
+  "012abab740093e62": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/moonshotai-kimi-k3-1-pro/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-26T15:31:07.731442+00:00",
+    "first_alerted_at": "2026-11-26T15:31:13.365676+00:00"
   }
 }
