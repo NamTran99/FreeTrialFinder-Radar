@@ -20122,5 +20122,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-27T00:43:12+00:00",
     "first_alerted_at": "2026-11-27T08:52:37.073334+00:00"
+  },
+  "c76f341cc3266b64": {
+    "title": "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
+    "url": "https://github.com/legend-of-alan/ghostmode",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-27T11:51:03+00:00",
+    "first_alerted_at": "2026-11-27T18:34:46.526331+00:00"
+  },
+  "9ad28e58221ff4c4": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-crouton-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-27T18:34:41.472178+00:00",
+    "first_alerted_at": "2026-11-27T18:34:47.708293+00:00"
+  },
+  "c1a47c74ef26df2c": {
+    "title": "Show HN: Flowmaps – the logic layer for agents and developers",
+    "url": "https://flowmaps.ai/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-27T18:20:28+00:00",
+    "first_alerted_at": "2026-11-27T18:34:48.880161+00:00"
   }
 }
