@@ -20104,5 +20104,23 @@
     "confidence": "DIRECT_IDE",
     "discovered_at": "2026-11-26T16:09:36+00:00",
     "first_alerted_at": "2026-11-27T00:10:49.823762+00:00"
+  },
+  "3bb55036de023279": {
+    "title": "$140k in debt to Google cloud due to AI token usage. any ideas?",
+    "url": "https://news.ycombinator.com/item?id=50663736",
+    "provider": "Google",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-27T07:04:28+00:00",
+    "first_alerted_at": "2026-11-27T08:52:35.887446+00:00"
+  },
+  "c3b6779f8b2b24db": {
+    "title": "Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem",
+    "url": "https://scolast.com",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-27T00:43:12+00:00",
+    "first_alerted_at": "2026-11-27T08:52:37.073334+00:00"
   }
 }
