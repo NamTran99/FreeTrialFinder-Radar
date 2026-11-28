@@ -20149,5 +20149,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-27T18:20:28+00:00",
     "first_alerted_at": "2026-11-27T18:34:48.880161+00:00"
+  },
+  "172e5e0b47855009": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/openai-gpt-oss-safeguard-20b-2/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-28T17:52:19.177485+00:00",
+    "first_alerted_at": "2026-11-28T17:52:24.945036+00:00"
+  },
+  "a0dc478b865e3e4d": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/openai-gpt-oss-20b-2/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-28T17:52:19.177498+00:00",
+    "first_alerted_at": "2026-11-28T17:52:25.998605+00:00"
+  },
+  "acb6f6b23add29f9": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/openai-gpt-oss-120b-2/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-28T17:52:19.177509+00:00",
+    "first_alerted_at": "2026-11-28T17:52:27.076022+00:00"
+  },
+  "8b31bff4973d2b02": {
+    "title": "Lenovo preloads ChatGPT on Windows 11 PCs with OpenAI credits - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFROMndvMkNERjdPcE9ZQmZQX3dHNFNjbjhRSGpmbHJYZHpUaHR6UWQ3QnNqSzdjY0YzdlptMDl6aHR4RlcwNmJvWDNISl8wVS1jRzlqaWZkSS1NWThYdk5yMndQNF9UX2FKTDlzd1U0NVJJZEVJc21RMlVkMVN3SHBGSGR0d1AxbDZFbEM5cWh1ZXZlSXppaE1lU0xSaldyZFlBdkhQUU0wZw?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-28T14:59:00+00:00",
+    "first_alerted_at": "2026-11-28T17:52:28.174096+00:00"
   }
 }
